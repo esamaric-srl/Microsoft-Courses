@@ -145,50 +145,50 @@
 
 This extensive course catalog presents a diverse and comprehensive array of technical training programs, primarily centered around Microsoft technologies and related IT skills. The catalog is designed to cater to a wide range of professionals in the technology sector, from beginners to seasoned experts, offering a robust selection of courses that cover the breadth and depth of modern IT landscapes.
 
-##Microsoft Azure Cloud Services and Administration:
+## Microsoft Azure Cloud Services and Administration:
 A significant portion of the catalog is dedicated to Microsoft Azure, reflecting the growing importance of cloud computing in today's IT environment. Courses range from foundational levels, such as "AZ-900T00: Microsoft Azure Fundamentals" (8 hours, 277€), to more advanced and specialized offerings like "AZ-305T00: Designing Microsoft Azure Infrastructure Solutions" (32 hours, 1277€). These courses provide learners with the knowledge and skills necessary to understand, implement, and manage cloud solutions using Microsoft Azure. They cover topics such as virtual machines, storage solutions, networking, and security in the cloud environment. The inclusion of courses like "AZ-104T00: Microsoft Azure Administrator" (32 hours, 1227€) demonstrates the catalog's commitment to preparing IT professionals for real-world roles in cloud administration.
 
-##Microsoft 365 and Office Applications:
+## Microsoft 365 and Office Applications:
 The catalog also offers a variety of courses focused on Microsoft 365 and Office applications, recognizing the ubiquity of these tools in modern workplaces. Courses like "MS-900T01: Microsoft 365 Fundamentals" (8 hours, 277€) provide an overview of the Microsoft 365 ecosystem, while more specialized courses such as "MS-700T00: Managing Microsoft Teams" (32 hours, 1277€) delve into specific applications within the suite. These courses are designed to help professionals maximize productivity and collaboration within their organizations using Microsoft's cloud-based office solutions.
 
-##Microsoft Dynamics 365:
+## Microsoft Dynamics 365:
 For professionals working with business applications, the catalog offers several courses on Microsoft Dynamics 365. These range from introductory courses like "MB-910T00: Microsoft Dynamics 365 Fundamentals (CRM)" (8 hours, 397€) to more advanced and role-specific training such as "MB-330T00: Microsoft Dynamics 365 Supply Chain Management" (40 hours, 1437€). These courses equip learners with the skills to implement, customize, and use Microsoft's customer relationship management (CRM) and enterprise resource planning (ERP) solutions.
 
-##Microsoft Power Platform:
+## Microsoft Power Platform:
 Recognizing the growing trend of low-code development, the catalog includes several courses on Microsoft Power Platform. From "PL-900T00: Microsoft Power Platform Fundamentals" (8 hours, 277€) to more advanced courses like "PL-400T00: Microsoft Power Platform Developer" (40 hours, 1277€), these offerings cover Power Apps, Power Automate, Power BI, and Power Virtual Agents. These courses enable professionals to create business solutions with minimal traditional coding, enhancing productivity and innovation within organizations.
 
-##Cybersecurity and Compliance:
+## Cybersecurity and Compliance:
 In an era where data protection and security are paramount, the catalog offers a robust selection of cybersecurity courses. These range from foundational courses like "SC-900T00: Microsoft Security, Compliance, and Identity Fundamentals" (8 hours, 277€) to more advanced offerings such as "SC-100T00: Microsoft Cybersecurity Architect" (32 hours, 1397€). The catalog also includes specialized courses on the NIST Cybersecurity Framework, demonstrating a commitment to industry standards beyond Microsoft-specific certifications. Courses like "SC-400T00: Administering Information Protection and Compliance in Microsoft 365" (32 hours, 1097€) highlight the integration of security and compliance within the Microsoft ecosystem.
 
-##Software Development:
+## Software Development:
 For developers, the catalog offers a wide array of courses covering various programming languages and frameworks. C# and .NET are well-represented, with courses like "CW4001: Object-Oriented Programming in C#" (35 hours, 1997€) and "CW4014: C# and .NET Foundations" (35 hours, 1997€). Web development is covered through courses on HTML, CSS, and JavaScript, such as "CWHCJ501: Programming with HTML, CSS, and JavaScript" (35 hours, 1747€). The catalog also includes more specialized development courses like "AZ-204T00: Developing Solutions for Microsoft Azure" (40 hours, 1277€), which bridges traditional development skills with cloud-native applications.
 
-##DevOps and Azure DevOps:
+## DevOps and Azure DevOps:
 Recognizing the importance of DevOps practices in modern software development, the catalog includes several courses in this domain. "Az-400t00: Designing and Implementing Microsoft DevOps Solutions" (32 hours, 1437€) provides comprehensive coverage of DevOps principles and practices within the Microsoft ecosystem. Courses like "CWCICD: CI/CD Using Azure Pipelines" (7 hours, 747€) offer more focused training on specific aspects of the DevOps toolchain.
 
-##AI and Machine Learning:
+## AI and Machine Learning:
 The catalog reflects the growing importance of artificial intelligence and machine learning in the tech industry. Courses range from introductory offerings like "AI-900T00: Microsoft Azure AI Fundamentals" (8 hours, 277€) to more advanced and specialized training such as "AI-102T00: Designing and Implementing a Microsoft Azure AI Solution" (32 hours, 1277€). These courses cover a range of AI and ML topics, including computer vision, natural language processing, and the ethical considerations of AI implementation.
 
-##Data Engineering and Analytics:
+## Data Engineering and Analytics:
 For professionals working with big data and analytics, the catalog offers several relevant courses. These include "DP-203T00: Data Engineering on Microsoft Azure" (32 hours, 1397€) and "DP-500T00: Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI" (32 hours, 1397€). These courses cover various aspects of data management, from data warehousing to real-time analytics, preparing learners for roles in the increasingly data-driven business world.
 
-##Microsoft Copilot and AI Services:
+## Microsoft Copilot and AI Services:
 The catalog also includes cutting-edge courses on Microsoft's AI-powered productivity tools, such as "MS-4005: Craft Effective Prompts for Microsoft Copilot for Microsoft 365" (8 hours, 277€) and "AI-3016: Develop Copilots With Azure AI Studio" (8 hours, 597€). These courses reflect Microsoft's commitment to integrating AI into its product ecosystem and prepare professionals to leverage these new tools effectively.
 
-##Course Structure and Pricing:
+## Course Structure and Pricing:
 The courses in this catalog vary significantly in duration and price, catering to different learning needs and budgets. Short courses, typically lasting 7-8 hours, are priced from around 277€, making them accessible entry points for professionals looking to quickly grasp fundamental concepts or new technologies. These shorter courses are ideal for busy professionals who need to upskill rapidly in specific areas.
 
 At the other end of the spectrum, the catalog offers intensive, in-depth courses lasting up to 40 hours. These comprehensive programs, such as "MB-700T00: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect" (40 hours, 2997€), provide thorough coverage of complex topics and are suitable for professionals seeking deep expertise in specific technologies or preparing for advanced certifications.
 
 The pricing structure generally reflects the duration and complexity of the courses, with more advanced and longer courses commanding higher prices. However, the catalog also includes some specialized short courses at higher price points, reflecting the value of targeted, expert-level knowledge in certain areas.
 
-##Certification Alignment:
+## Certification Alignment:
 Many courses in the catalog are designed to align with Microsoft's certification paths. This alignment is evident in course codes that correspond to specific Microsoft exams, such as "AZ-104T00" aligning with the Azure Administrator Associate certification. This structure allows professionals to use these courses as part of their certification preparation, adding significant value to their learning journey by directly supporting career advancement and professional recognition.
 
-##Delivery Methods:
+## Delivery Methods:
 While the catalog doesn't explicitly state delivery methods for each course, the structured nature of the offerings suggests that they are designed for instructor-led training, either in-person or virtual. The precise durations (in hours) indicate that these are likely scheduled courses rather than self-paced options, although some may offer flexibility in delivery format.
 
-##Target Audience:
+## Target Audience:
 The catalog caters to a wide range of IT professionals, including:
 1. Cloud administrators and architects
 2. Software developers
@@ -201,17 +201,17 @@ The catalog caters to a wide range of IT professionals, including:
 
 The diverse course offerings ensure that professionals at various stages of their careers, from entry-level to expert, can find relevant training to support their growth and keep their skills current in a rapidly evolving tech landscape.
 
-##Industry Relevance:
+## Industry Relevance:
 The course catalog demonstrates a strong focus on skill#s and technologies that are highly relevant in today's IT industry. The emphasis on cloud computing, AI, data analytics, and cybersecurity aligns with current industry trends and job market demands. By offering training in these areas, the catalog helps professionals stay competitive in the job market and enables organizations to build the internal expertise needed to leverage cutting-edge technologies effectively.
 
-##Continuous Learning and Skill Development:
+## Continuous Learning and Skill Development:
 The structure of the catalog, with its range of fundamental to advanced courses, supports a continuous learning journey for IT professionals. Learners can start with foundational courses and progressively move to more advanced topics as they build their skills and experience. This approach encourages lifelong learning, which is crucial in the fast-paced tech industry where technologies and best practices evolve rapidly.
 
-##Breadth vs. Depth:
+## Breadth vs. Depth:
 The catalog strikes a balance between breadth and depth of coverage. While it offers a wide range of topics, covering various aspects of IT and software development, it also provides deep dives into specific technologies and roles. This balance allows professionals to both expand their general knowledge and develop specialized expertise in areas of particular interest or relevance to their careers.
 
-#Non-Microsoft Technologies:
+## Non-Microsoft Technologies:
 Although the catalog is heavily focused on Microsoft technologies, it also includes courses on non-Microsoft specific skills that are important in modern IT environments. Courses on Docker, Kubernetes, and general web development principles ensure that learners get a well-rounded education that extends beyond the Microsoft ecosystem. This inclusion recognizes the heterogeneous nature of many IT environments and the need for professionals to be versatile in their skill sets.
 
-##To summarize:
+## To summarize:
 In summary, this course catalog offers a comprehensive and diverse range of technical training programs that cater to the evolving needs of IT professionals in today's technology-driven world. With its strong focus on Microsoft technologies, complemented by courses on general IT skills and industry-standard practices, the catalog provides a valuable resource for individuals and organizations looking to develop and maintain cutting-edge technology skills. The variety in course duration, depth, and pricing ensures that learners at all levels and with different time and budget constraints can find suitable options for their professional development needs. As the tech industry continues to evolve, catalogs like this play a crucial role in enabling professionals to stay current, enhance their skills, and drive innovation within their organizations.
