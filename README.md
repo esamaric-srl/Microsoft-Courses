@@ -17,7 +17,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/IC-002T00.md">IC-002T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/IC-002T00.md">Microsoft Cloud for Sustainability</a> | 16 | 697 | |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-900T01.md">AZ-900T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-900T01.md">Microsoft Azure Fundamentals</a> | 8 | 277 | |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/DP-420T00.md">DP-420T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/DP-420T00.md">Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB</a> | 32 | 1437 | Microsoft Azure |
-| AZ-801T00 | Configuring Windows Server Hybrid Advanced Services | 32 | 1197 | |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-801T00.md">AZ-801T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-801T00.md">Configuring Windows Server Hybrid Advanced Services</a> | 32 | 1197 | |
 | Dp-3007 | Train and Deploy a Machine Learning Model With Azure Machine Learning | 8 | 597 | |
 | AZ-700T00 | Designing and Implementing Microsoft Azure Networking Solutions | 24 | 1047 | |
 | AZ-800T00 | Administering Windows Server Hybrid Core Infrastructure | 32 | 1397 | |
