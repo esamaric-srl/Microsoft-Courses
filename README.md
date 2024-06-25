@@ -15,7 +15,7 @@
 | AZ-400t00 | Designing and Implementing Microsoft Devops Solutions | 32 | 1437 | Azure DevOps |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/new/main">DP-600T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/new/main">Microsoft Fabric Analytics Engineer</a> | 32 | 1277 | Microsoft Fabric |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/IC-002T00.md">IC-002T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/IC-002T00.md">Microsoft Cloud for Sustainability</a> | 16 | 697 | |
-| AZ-900T00 | Microsoft Azure Fundamentals | 8 | 277 | |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-900T01.md">AZ-900T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-900T01.md">Microsoft Azure Fundamentals</a> | 8 | 277 | |
 | DP-420T00 | Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB | 32 | 1437 | Microsoft Azure |
 | AZ-801T00 | Configuring Windows Server Hybrid Advanced Services | 32 | 1197 | |
 | Dp-3007 | Train and Deploy a Machine Learning Model With Azure Machine Learning | 8 | 597 | |
