@@ -4,7 +4,7 @@
 | Code | Title | Hours | Price (€) | Category |
 |------|-------|-------|-----------|----------|
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/SC-5003.md">Sc-5003</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/SC-5003.md">Implement Information Protection and Data Loss Prevention by Using Microsoft Purview</a> | 8 | 597 | |
-| MS-900T01 | Microsoft 365 Fundamentals | 8 | 277 | |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-900T01.md">MS-900T01</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-900T01.md">Microsoft 365 Fundamentals</a> | 8 | 277 | |
 | AZ-104T00 | Microsoft Azure Administrator | 32 | 1227 | Microsoft Azure |
 | Az-040t00 | Automating Administration With Powershell | 40 | 1277 | |
 | AZ-305T00 | Designing Microsoft Azure Infrastructure Solutions | 32 | 1277 | Microsoft Azure |
