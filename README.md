@@ -1,4 +1,4 @@
-# Microsoft-Courses
+# Microsoft Courses
 
 
 | Code | Title | Hours | Price (€) | Category |
@@ -143,7 +143,7 @@
 | CW4012 | .NET Foundations | 14 | 797.00 | Software Development |
 | EM36112 | Blazor Course: Development of Interactive Web Applications with C# | 21 | 997.00 | Software Development |
 
-This extensive course catalog presents a diverse and comprehensive array of technical training programs, primarily centered around Microsoft technologies and related IT skills. The catalog is designed to cater to a wide range of professionals in the technology sector, from beginners to seasoned experts, offering a robust selection of courses that cover the breadth and depth of modern IT landscapes.
+This extensive <a href="https://www.esamatic.it/corsi">course catalog</a> presents a diverse and comprehensive array of technical training programs, primarily centered around Microsoft technologies and related IT skills. The catalog is designed to cater to a wide range of professionals in the technology sector, from beginners to seasoned experts, offering a robust selection of courses that cover the breadth and depth of modern IT landscapes.
 
 ## Microsoft Azure Cloud Services and Administration:
 A significant portion of the catalog is dedicated to Microsoft Azure, reflecting the growing importance of cloud computing in today's IT environment. Courses range from foundational levels, such as "AZ-900T00: Microsoft Azure Fundamentals" (8 hours, 277€), to more advanced and specialized offerings like "AZ-305T00: Designing Microsoft Azure Infrastructure Solutions" (32 hours, 1277€). These courses provide learners with the knowledge and skills necessary to understand, implement, and manage cloud solutions using Microsoft Azure. They cover topics such as virtual machines, storage solutions, networking, and security in the cloud environment. The inclusion of courses like "AZ-104T00: Microsoft Azure Administrator" (32 hours, 1227€) demonstrates the catalog's commitment to preparing IT professionals for real-world roles in cloud administration.
