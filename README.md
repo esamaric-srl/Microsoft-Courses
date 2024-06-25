@@ -8,7 +8,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-104T00.md">AZ-104T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-104T00.md">Microsoft Azure Administrator</a> | 32 | 1227 | Microsoft Azure |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Az-040t00.md">Az-040t00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Az-040t00.md">Automating Administration With Powershell</a> | 40 | 1277 | |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-305T00.md">AZ-305T 00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-305T00.md">Designing Microsoft Azure Infrastructure Solutions</a>  | 32 | 1277 | Microsoft Azure |
-| Dp-605t00 | Develop Dynamic Reports With Microsoft Power BI | 8 | 357 | Microsoft Power Platform |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Dp-605t00.md">Dp-605t00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Dp-605t00.md">Develop Dynamic Reports With Microsoft Power</a> BI | 8 | 357 | Microsoft Power Platform |
 | DP-300T00 | Administering Microsoft Azure SQL Solutions | 32 | 1277 | |
 | AZ-500T00 | Microsoft Azure Security Technologies | 32 | 1277 | Cyber Security |
 | MB-210T01 | Microsoft Dynamics 365 Sales | 16 | 397 | Microsoft Dynamics |
