@@ -11,7 +11,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Dp-605t00.md">Dp-605t00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Dp-605t00.md">Develop Dynamic Reports With Microsoft Power BI</a>  | 8 | 357 | Microsoft Power Platform |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/DP-300T00">DP-300T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/DP-300T00">Administering Microsoft Azure SQL Solutions</a> | 32 | 1277 | |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-500T00.md">AZ-500T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-500T00.md">Microsoft Azure Security Technologies</a> | 32 | 1277 | Cyber Security |
-| MB-210T01 | Microsoft Dynamics 365 Sales | 16 | 397 | Microsoft Dynamics |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/edit/main/MB-210T01.md">MB-210T01</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/edit/main/MB-210T01.md">Microsoft Dynamics 365 Sales</a> | 16 | 397 | Microsoft Dynamics |
 | Az-400t00 | Designing and Implementing Microsoft Devops Solutions | 32 | 1437 | Azure DevOps |
 | DP-600T00 | Microsoft Fabric Analytics Engineer | 32 | 1277 | Microsoft Fabric |
 | IC-002T00 | Microsoft Cloud for Sustainability | 16 | 697 | |
