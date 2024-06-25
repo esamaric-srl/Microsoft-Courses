@@ -215,3 +215,6 @@ Although the catalog is heavily focused on Microsoft technologies, it also inclu
 
 ## To summarize:
 In summary, this course catalog offers a comprehensive and diverse range of technical training programs that cater to the evolving needs of IT professionals in today's technology-driven world. With its strong focus on Microsoft technologies, complemented by courses on general IT skills and industry-standard practices, the catalog provides a valuable resource for individuals and organizations looking to develop and maintain cutting-edge technology skills. The variety in course duration, depth, and pricing ensures that learners at all levels and with different time and budget constraints can find suitable options for their professional development needs. As the tech industry continues to evolve, catalogs like this play a crucial role in enabling professionals to stay current, enhance their skills, and drive innovation within their organizations.
+
+<iframe src="https://www.esamatic.it/corsi" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a href="https://www.esamatic.it/corsi" />
