@@ -25,7 +25,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/DP-500T00.md">DP-500T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/DP-500T00.md">Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI</a> | 32 | 1397 | Microsoft Power Platform |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-220T00.md">MB-220T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-220T00.md">Dynamics 365 Customer Insights - Journeys</a> | 32 | 1397 | Microsoft Dynamics |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/DP-203T00.md">DP-203T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/DP-203T00.md">Data Engineering on Microsoft Azure</a> | 32 | 1397 | Microsoft Azure |
-| MB-330T00 | Microsoft Dynamics 365 Supply Chain Management | 40 | 1437 | Microsoft Dynamics |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-330T00.md">MB-330T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-330T00.md">Microsoft Dynamics 365 Supply Chain Management</a> | 40 | 1437 | Microsoft Dynamics |
 | Dp-3001 | Migrate SQL Server Workload to Azure SQL | 8 | 277 | |
 | Dp-100t01 | Designing and Implementing a Data Science Solution on Azure | 32 | 1397 | |
 | Dp-3011 | Implementing a Data Analytics Solution With Azure Databricks | 8 | 597 | |
