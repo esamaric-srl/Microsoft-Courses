@@ -27,7 +27,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/DP-203T00.md">DP-203T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/DP-203T00.md">Data Engineering on Microsoft Azure</a> | 32 | 1397 | Microsoft Azure |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-330T00.md">MB-330T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-330T00.md">Microsoft Dynamics 365 Supply Chain Management</a> | 40 | 1437 | Microsoft Dynamics |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Dp-3001.md">Dp-3001</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Dp-3001.md">Migrate SQL Server Workload to Azure SQL</a> | 8 | 277 | |
-| Dp-100t01 | Designing and Implementing a Data Science Solution on Azure | 32 | 1397 | |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Dp-100t01.md">Dp-100t01</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Dp-100t01.md">Designing and Implementing a Data Science Solution on Azure</a> | 32 | 1397 | |
 | Dp-3011 | Implementing a Data Analytics Solution With Azure Databricks | 8 | 597 | |
 | Dp-603t00 | Implementing Real Time Analytics With Microsoft Fabric | 8 | 597 | Microsoft Fabric |
 | Dp-080t00 | Querying Data With Microsoft Transact-Sql | 16 | 627 | |
