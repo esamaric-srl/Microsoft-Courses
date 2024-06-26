@@ -38,7 +38,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-310T00.md">MB-310T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-310T00.md">Microsoft Dynamics 365 Finance</a> | 32 | 1397 | Microsoft Dynamics |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Dp-604t00.md">Dp-604t00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Dp-604t00.md">Implement a Data Science and Machine Learning Solution for AI With Microsoft Fabric</a> | 8 | 597 | Microsoft Fabric |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Dp-3012.md">Dp-3012</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Dp-3012.md">Implementing a Data Analytics Solution With Azure Synapse Analytics</a> | 8 | 357 | |
-| DP-3014 | Implementing a Machine Learning Solution With Azure Databricks | 8 | 597 | |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/DP-3014.md">DP-3014</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/DP-3014.md">Implementing a Machine Learning Solution With Azure Databricks</a> | 8 | 597 | |
 | MB-260T00 | Microsoft Customer Insights - Data Specialty | 32 | 1397 | |
 | MB-700T00 | Microsoft Dynamics 365: Finance and Operations Apps Solution Architect | 40 | 2997 | Microsoft Dynamics |
 | DP-3015 | Getting Started With Cosmos DB Nosql Development | 8 | 597 | |
