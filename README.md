@@ -29,7 +29,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Dp-3001.md">Dp-3001</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Dp-3001.md">Migrate SQL Server Workload to Azure SQL</a> | 8 | 277 | |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Dp-100t01.md">Dp-100t01</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Dp-100t01.md">Designing and Implementing a Data Science Solution on Azure</a> | 32 | 1397 | |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Dp-3011.md">Dp-3011</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Dp-3011.md">Implementing a Data Analytics Solution With Azure Databricks</a> | 8 | 597 | |
-| Dp-603t00 | Implementing Real Time Analytics With Microsoft Fabric | 8 | 597 | Microsoft Fabric |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Dp-603t00.md">Dp-603t00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Dp-603t00.md">Implementing Real Time Analytics With Microsoft Fabric</a> | 8 | 597 | Microsoft Fabric |
 | Dp-080t00 | Querying Data With Microsoft Transact-Sql | 16 | 627 | |
 | MS-102T00 | Microsoft 365 Administrator | 40 | 1277 | Microsoft 365 |
 | Dp-601t00 | Implementing a Lakehouse With Microsoft Fabric | 8 | 357 | Microsoft Fabric |
