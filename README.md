@@ -46,7 +46,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-820T00.md">MB-820T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-820T00.md">Dynamics 365 Business Central Developer</a> | 40 | 1437 | Microsoft Dynamics |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-910T00.md">MB-910T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-910T00.md">Microsoft Dynamics 365 Fundamentals (CRM)</a> | 8 | 397 | Microsoft Dynamics |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-4005.md">MS-4005</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-4005.md">Craft Effective Prompts for Microsoft Copilot for Microsoft 365</a> | 8 | 277 | Microsoft Copilot |
-| MB-500T00 | Microsoft Dynamics 365: Finance and Operations Apps Developer | 40 | 1697 | Microsoft Dynamics |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-500T00.md">MB-500T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-500T00.md">Microsoft Dynamics 365: Finance and Operations Apps Developer</a> | 40 | 1697 | Microsoft Dynamics |
 | MS-700T00 | Managing Microsoft Teams | 32 | 1277 | |
 | Md-4011 | Enhance Endpoint Security With Microsoft Intune and Microsoft Copilot for Security | 8 | 597 | Microsoft Copilot |
 | MD-102T00 | Microsoft 365 Endpoint Administrator | 40 | 1437 | Microsoft 365 |
