@@ -36,7 +36,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Dp-602t00.md">Dp-602t00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Dp-602t00.md">Implement a Data Warehouse With Microsoft Fabric</a> | 8 | 597 | Microsoft Fabric |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-240T00.md">MB-240T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-240T00.md">Microsoft Dynamics 365 Field Service</a> | 32 | 1247 | Microsoft Dynamics |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-310T00.md">MB-310T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-310T00.md">Microsoft Dynamics 365 Finance</a> | 32 | 1397 | Microsoft Dynamics |
-| Dp-604t00 | Implement a Data Science and Machine Learning Solution for AI With Microsoft Fabric | 8 | 597 | Microsoft Fabric |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Dp-604t00.md">Dp-604t00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Dp-604t00.md">Implement a Data Science and Machine Learning Solution for AI With Microsoft Fabric</a> | 8 | 597 | Microsoft Fabric |
 | Dp-3012 | Implementing a Data Analytics Solution With Azure Synapse Analytics | 8 | 357 | |
 | DP-3014 | Implementing a Machine Learning Solution With Azure Databricks | 8 | 597 | |
 | MB-260T00 | Microsoft Customer Insights - Data Specialty | 32 | 1397 | |
