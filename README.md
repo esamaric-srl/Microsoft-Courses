@@ -19,7 +19,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/DP-420T00.md">DP-420T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/DP-420T00.md">Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB</a> | 32 | 1437 | Microsoft Azure |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-801T00.md">AZ-801T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-801T00.md">Configuring Windows Server Hybrid Advanced Services</a> | 32 | 1197 | |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Dp-3007.md">Dp-3007</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Dp-3007.md">Train and Deploy a Machine Learning Model With Azure Machine Learning</a> | 8 | 597 | |
-| AZ-700T00 | Designing and Implementing Microsoft Azure Networking Solutions | 24 | 1047 | |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-700T00.md">AZ-700T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-700T00.md">Designing and Implementing Microsoft Azure Networking Solutions</a> | 24 | 1047 | |
 | AZ-800T00 | Administering Windows Server Hybrid Core Infrastructure | 32 | 1397 | |
 | MB-230T01 | Microsoft Dynamics 365 Customer Service | 32 | 397 | Microsoft Dynamics |
 | DP-500T00 | Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI | 32 | 1397 | Microsoft Power Platform |
