@@ -23,7 +23,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-800T00.md">AZ-800T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-800T00.md">Administering Windows Server Hybrid Core Infrastructure</a> | 32 | 1397 | |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-230T01.md">MB-230T01</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-230T01.md">Microsoft Dynamics 365 Customer Service</a> | 32 | 397 | Microsoft Dynamics |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/DP-500T00.md">DP-500T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/DP-500T00.md">Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI</a> | 32 | 1397 | Microsoft Power Platform |
-| MB-220T00 | Dynamics 365 Customer Insights - Journeys | 32 | 1397 | Microsoft Dynamics |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-220T00.md">MB-220T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-220T00.md">Dynamics 365 Customer Insights - Journeys</a> | 32 | 1397 | Microsoft Dynamics |
 | DP-203T00 | Data Engineering on Microsoft Azure | 32 | 1397 | Microsoft Azure |
 | MB-330T00 | Microsoft Dynamics 365 Supply Chain Management | 40 | 1437 | Microsoft Dynamics |
 | Dp-3001 | Migrate SQL Server Workload to Azure SQL | 8 | 277 | |
