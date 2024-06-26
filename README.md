@@ -42,7 +42,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-260T00.md">MB-260T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-260T00.md">Microsoft Customer Insights - Data Specialty</a> | 32 | 1397 | |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-700T00.md">MB-700T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-700T00.md">Microsoft Dynamics 365: Finance and Operations Apps Solution Architect</a> | 40 | 2997 | Microsoft Dynamics |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/DP-3015.md">DP-3015</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/DP-3015.md">Getting Started With Cosmos DB Nosql Development</a> | 8 | 597 | |
-| DP-900T00 | Microsoft Azure Data Fundamentals | 8 | 277 | |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/DP-900T00.md">DP-900T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/DP-900T00.md">Microsoft Azure Data Fundamentals</a> | 8 | 277 | |
 | MB-820T00 | Dynamics 365 Business Central Developer | 40 | 1437 | Microsoft Dynamics |
 | MB-910T00 | Microsoft Dynamics 365 Fundamentals (CRM) | 8 | 397 | Microsoft Dynamics |
 | MS-4005 | Craft Effective Prompts for Microsoft Copilot for Microsoft 365 | 8 | 277 | Microsoft Copilot |
