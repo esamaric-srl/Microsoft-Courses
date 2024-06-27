@@ -2,13 +2,13 @@
 
 ## Introduction
 
-In the ever-evolving world of web development, mastering the core technologies of **HTML**, **CSS**, and **JavaScript** is essential for anyone looking to build a career in this dynamic field. The CWHCJ501 course, "Programming with HTML, CSS, and JavaScript," offers a comprehensive and in-depth exploration of these fundamental web technologies, providing participants with the skills and knowledge needed to create modern, responsive, and interactive websites.
+In the ever-evolving world of web development, mastering the core technologies of **HTML**, **CSS**, and **JavaScript** is essential for anyone looking to build a career in this dynamic field. The <a href="https://www.esamatic.it/corsi/programming-with-html-css-and-javascript-courseware">CWHCJ501: Programming with HTML, CSS, and JavaScript</a> offers a comprehensive and in-depth exploration of these fundamental web technologies, providing participants with the skills and knowledge needed to create modern, responsive, and interactive websites.
 
 This intensive course goes beyond the basics, diving deep into advanced concepts and practical applications that will set you apart in the competitive world of web development. Whether you're a beginner looking to start a new career or an experienced developer aiming to sharpen your skills, CWHCJ501 offers a robust learning experience that will elevate your web development expertise.
 
 ## Course Overview
 
-The CWHCJ501 course is a comprehensive training program that covers the trifecta of web development in great detail. Here's a quick snapshot of the course details:
+The <a href="https://www.esamatic.it/corsi/programming-with-html-css-and-javascript-courseware">CWHCJ501</a> course is a comprehensive training program that covers the trifecta of web development in great detail. Here's a quick snapshot of the course details:
 
 - **Duration**: 35 hours (typically spread over 5 days)
 - **Format**: Instructor-led training
@@ -30,7 +30,7 @@ Before diving into the course content, it's crucial to understand why advanced s
 
 ## Course Curriculum
 
-The CWHCJ501 course is meticulously structured to provide a comprehensive journey through HTML, CSS, and JavaScript. Here's an overview of what participants can expect to learn:
+The <a href="https://www.esamatic.it/corsi/programming-with-html-css-and-javascript-courseware">CWHCJ501</a> course is meticulously structured to provide a comprehensive journey through HTML, CSS, and JavaScript. Here's an overview of what participants can expect to learn:
 
 ### Day 1: Advanced HTML and Document Structure
 
@@ -211,3 +211,7 @@ In today's digital economy, the demand for skilled web developers continues to g
 Whether you're looking to advance your career in web development, transition into a tech role, or simply want to be able to create professional-grade websites, the CWHCJ501 course provides the perfect blend of theoretical knowledge and practical experience. Don't miss this chance to transform your web development skills and open doors to exciting career opportunities.
 
 Enroll in CWHCJ501 today and embark on your journey to becoming a master of HTML, CSS, and JavaScript. The future of the web is waiting for you to shape it!
+
+## Are you searching for Microsoft Courses?
+Please visit our full list of <a href="https://github.com/esamaric-srl/Microsoft-Courses">Microsot Courses</a> and start your training session.
+
