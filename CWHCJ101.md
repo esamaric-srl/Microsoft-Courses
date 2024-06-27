@@ -2,13 +2,13 @@
 
 ## Introduction
 
-In today's digital age, the ability to create and understand web technologies is becoming increasingly valuable across various industries. The CWHCJ101 course, "Rapid Introduction to HTML, CSS, and JavaScript," offers an accelerated path to mastering the fundamental building blocks of modern web development. This comprehensive course is designed to equip participants with the essential skills needed to create dynamic, interactive, and visually appealing websites.
+In today's digital age, the ability to create and understand web technologies is becoming increasingly valuable across various industries. The <a href="https://www.esamatic.it/corsi/rapid-introduction-to-html-css-and-javascript-courseware">CWHCJ101: Rapid Introduction to HTML, CSS, and JavaScript</a> course, offers an accelerated path to mastering the fundamental building blocks of modern web development. This comprehensive course is designed to equip participants with the essential skills needed to create dynamic, interactive, and visually appealing websites.
 
-Whether you're a complete beginner looking to break into the world of web development, or a professional seeking to expand your skill set, CWHCJ101 provides a solid foundation in the core technologies that power the web. Let's dive into what makes this course a game-changer for aspiring web developers.
+Whether you're a complete beginner looking to break into the world of web development, or a professional seeking to expand your skill set, <a href="https://www.esamatic.it/corsi/rapid-introduction-to-html-css-and-javascript-courseware">CWHCJ101</a> provides a solid foundation in the core technologies that power the web. Let's dive into what makes this course a game-changer for aspiring web developers.
 
 ## Course Overview
 
-The CWHCJ101 course is an intensive training program that covers the trifecta of web development: **HTML**, **CSS**, and **JavaScript**. Here's a quick snapshot of the course details:
+The <a href="https://www.esamatic.it/corsi/rapid-introduction-to-html-css-and-javascript-courseware">CWHCJ101</a> course is an intensive training program that covers the trifecta of web development: **HTML**, **CSS**, and **JavaScript**. Here's a quick snapshot of the course details:
 
 - **Duration**: 21 hours (typically spread over 3 days)
 - **Format**: Instructor-led training
@@ -222,3 +222,6 @@ In today's digital-first world, the ability to understand and create for the web
 Whether you're looking to start a career in web development, enhance your current role with digital skills, or simply unleash your creativity online, the CWHCJ101 course provides the perfect blend of theoretical knowledge and practical experience. Don't miss this chance to join the ranks of web developers and start building the future of the internet.
 
 Enroll in CWHCJ101 today and take the first step towards becoming a web development professional. Your journey into the exciting world of HTML, CSS, and JavaScript starts here!
+
+## Are you searching for Microsoft Courses?
+Please visit our full list of <a href="https://github.com/esamaric-srl/Microsoft-Courses">Microsot Courses</a> and start your training session.
