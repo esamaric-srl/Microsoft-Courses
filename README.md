@@ -82,7 +82,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Sc-5008.md">Sc-5008</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Sc-5008.md">Configure and Manage Entitlement With Microsoft Entra ID</a> | 8 | 597 | |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/SC-900T00.md">SC-900T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/SC-900T00.md">Microsoft Security, Compliance, and Identity Fundamentals</a> | 8 | 277 | Cyber Security |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AI-3004.md">AI-3004</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AI-3004.md">Build an Azure computer vision solution with AI services</a> | 8 | 357 | Microsoft Azure |
-| AI-3017 | Microsoft AI for Business Leaders | 8 | 597 | |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AI-3017.md">AI-3017</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AI-3017.md">Microsoft AI for Business Leaders</a> | 8 | 597 | |
 | AI-900T00 | Microsoft Azure AI Fundamentals | 8 | 277 | Microsoft Azure |
 | AZ-204T00 | Developing Solutions for Microsoft Azure | 40 | 1277 | Software Development |
 | AI-3016 | Develop Copilots With Azure AI Studio | 8 | 597 | Microsoft Copilot |
