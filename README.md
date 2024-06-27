@@ -90,7 +90,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AI-3018.md">AI-3018</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AI-3018.md">Copilot Foundations</a> | 8 | 597 | Microsoft Copilot |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AI-3003.md">AI-3003</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AI-3003.md">Build a Natural Language Processing Solution With Azure AI Services</a> | 8 | 357 | Microsoft Azure |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AI-102T00.md">AI-102T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AI-102T00.md">Designing and Implementing a Microsoft Azure AI Solution</a> | 32 | 1277 | Microsoft Azure |
-| Az-1001 | Deploy and Manage Containers Using Azure Kubernetes Service | 8 | 597 | |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Az-1001.md">Az-1001</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Az-1001.md">Deploy and Manage Containers Using Azure Kubernetes Service</a> | 8 | 597 | |
 | AZ-1006 | Migrate and Modernize SAP in the Microsoft Cloud | 8 | 597 | Microsoft Azure |
 | AI-3002 | Create Document Intelligence Solutions With Azure AI Document Intelligence | 8 | 357 | Microsoft Azure |
 | Az-2001 | Implement Security Through a Pipeline Using Azure Devops | 8 | 397 | Azure DevOps |
