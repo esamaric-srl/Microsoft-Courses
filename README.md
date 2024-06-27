@@ -62,7 +62,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-4004.md">MS-4004</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-4004.md">Empower Your Workforce With Copilot for Microsoft 365 Use Cases</a> | 8 | 277 | Microsoft Copilot |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-4001.md">MS-4001</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-4001.md">Build Collaborative Apps for Microsoft Teams</a> | 8 | 597 | |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/SC-300T00.md">SC-300T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/SC-300T00.md">Microsoft Identity and Access Administrator</a> | 32 | 1277 | |
-| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/PL-600T00.mdPL-600T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/PL-600T00.md">Microsoft Power Platform Solution Architect</a> | 32 | 1097 | Microsoft Power Platform |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/PL-600T00.md">PL-600T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/PL-600T00.md">Microsoft Power Platform Solution Architect</a> | 32 | 1097 | Microsoft Power Platform |
 | SC-200T00 | Microsoft Security Operations Analyst | 32 | 1277 | Cyber Security |
 | PL-100T00 | Microsoft Power Platform App Maker | 24 | 1247 | Microsoft Power Platform |
 | PL-300T00 | Microsoft Power BI Data Analyst | 24 | 957 | Microsoft Power Platform |
