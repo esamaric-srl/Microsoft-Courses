@@ -94,7 +94,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-1006.md">AZ-1006</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-1006.md">Migrate and Modernize SAP in the Microsoft Cloud</a> | 8 | 597 | Microsoft Azure |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AI-3002.md">AI-3002</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AI-3002.md">Create Document Intelligence Solutions With Azure AI Document Intelligence</a> | 8 | 357 | Microsoft Azure |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Az-2001.md">Az-2001</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Az-2001.md">Implement Security Through a Pipeline Using Azure Devops</a> | 8 | 397 | Azure DevOps |
-| AZ-120T00 | Planning and Deploying SAP on Azure | 24 | 1397 | Microsoft Azure |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-120T00.md">AZ-120T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-120T00.md">Planning and Deploying SAP on Azure | 24 | 1397 | Microsoft Azure</a> |
 | Az-1003 | Secure Storage for Azure Files and Azure Blob Storage | 8 | 597 | Microsoft Azure |
 | AZ-2008 | DevOps Foundations: The Core Principles and Practices | 8 | 597 | Azure DevOps |
 | AZ-1005 | Configuring Azure Virtual Desktop for the Enterprise | 8 | 357 | Microsoft Azure |
