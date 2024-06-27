@@ -101,7 +101,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Az-1002.md">Az-1002</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Az-1002.md">Configure Secure Access to Your Workloads Using Networking With Azure Virtual Network</a> | 8 | 597 | Microsoft Azure |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Az-2005.md">Az-2005</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Az-2005.md">Develop AI Agents Using Azure Openai and the Semantic Kernel SDK</a> | 8 | 597 | Microsoft Azure |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Az-2003.md">Az-2003</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Az-2003.md">Deploy Cloud-Native Apps Using Azure Container Apps</a> | 8 | 597 | Microsoft Azure |
-| Ai-050t00 | Develop Generative AI Solutions With Azure Openai Service | 8 | 277 | Microsoft Azure |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Ai-050t00.md">Ai-050t00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Ai-050t00.md">Develop Generative AI Solutions With Azure Openai Service</a> | 8 | 277 | Microsoft Azure |
 | Az-2002 | Develop an Asp.Net Core Web App That Consumes an API | 8 | 597 | Software Development |
 | Az-1004 | Deploy and Configure Azure Monitor | 8 | 597 | Microsoft Azure |
 | CWWA2579 | Technical Introduction to Microservices Training | 14 | 1497.00 | Software Development |
