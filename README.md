@@ -64,7 +64,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/SC-300T00.md">SC-300T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/SC-300T00.md">Microsoft Identity and Access Administrator</a> | 32 | 1277 | |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/PL-600T00.md">PL-600T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/PL-600T00.md">Microsoft Power Platform Solution Architect</a> | 32 | 1097 | Microsoft Power Platform |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/SC-200T00.md">SC-200T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/SC-200T00.md">Microsoft Security Operations Analyst</a> | 32 | 1277 | Cyber Security |
-| PL-100T00 | Microsoft Power Platform App Maker | 24 | 1247 | Microsoft Power Platform |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/PL-100T00.md">PL-100T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/PL-100T00.md">Microsoft Power Platform App Maker</a> | 24 | 1247 | Microsoft Power Platform |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/PL-300T00.md">PL-300T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/PL-300T00.md">Microsoft Power BI Data Analyst | 24 | 957 | Microsoft Power Platform</a> |
 | SC-100T00 | Microsoft Cybersecurity Architect | 32 | 1397 | Cyber Security |
 | PL-7001 | Create and Manage Canvas Apps With Power Apps | 8 | 597 | Microsoft Power Platform |
