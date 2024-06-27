@@ -89,7 +89,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-140T00.md">AZ-140T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-140T00.md">Configuring and Operating Microsoft Azure Virtual Desktop</a> | 32 | 1397 | Microsoft Azure |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AI-3018.md">AI-3018</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AI-3018.md">Copilot Foundations</a> | 8 | 597 | Microsoft Copilot |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AI-3003.md">AI-3003</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AI-3003.md">Build a Natural Language Processing Solution With Azure AI Services</a> | 8 | 357 | Microsoft Azure |
-| AI-102T00 | Designing and Implementing a Microsoft Azure AI Solution | 32 | 1277 | Microsoft Azure |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AI-102T00.md">AI-102T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AI-102T00.md">Designing and Implementing a Microsoft Azure AI Solution</a> | 32 | 1277 | Microsoft Azure |
 | Az-1001 | Deploy and Manage Containers Using Azure Kubernetes Service | 8 | 597 | |
 | AZ-1006 | Migrate and Modernize SAP in the Microsoft Cloud | 8 | 597 | Microsoft Azure |
 | AI-3002 | Create Document Intelligence Solutions With Azure AI Document Intelligence | 8 | 357 | Microsoft Azure |
