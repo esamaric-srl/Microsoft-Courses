@@ -70,7 +70,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/PL-7001.md">PL-7001</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/PL-7001.md">Create and Manage Canvas Apps With Power Apps</a> | 8 | 597 | Microsoft Power Platform |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/PL-7003.md">PL-7003</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/PL-7003.md">Create and Manage Model-Driven Apps With Power Apps and Dataverse</a> | 8 | 597 | Microsoft Power Platform |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Sc-5001.md">Sc-5001</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Sc-5001.md">Configure SIEM Security Operations Using Microsoft Sentinel</a> | 8 | 597 | Cyber Security |
-| Sc-5007 | Implement Retention, Ediscovery, and Communication Compliance in Microsoft Purview | 8 | 597 | |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Sc-5007.md">Sc-5007</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Sc-5007.md">Implement Retention, Ediscovery, and Communication Compliance in Microsoft Purview</a> | 8 | 597 | |
 | Sc-5006 | Get Started With Microsoft Copilot for Security | 8 | 597 | Microsoft Copilot |
 | PL-900T00 | Microsoft Power Platform Fundamentals | 8 | 277 | Microsoft Power Platform |
 | PL-200T00 | Microsoft Power Platform Functional Consultant | 40 | 1277 | Microsoft Power Platform |
