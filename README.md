@@ -73,7 +73,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Sc-5007.md">Sc-5007</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Sc-5007.md">Implement Retention, Ediscovery, and Communication Compliance in Microsoft Purview</a> | 8 | 597 | |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Sc-5006.md">Sc-5006</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Sc-5006.md">Get Started With Microsoft Copilot for Security</a> | 8 | 597 | Microsoft Copilot |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/PL-900T00.md">PL-900T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/PL-900T00.md">Microsoft Power Platform Fundamentals</a> | 8 | 277 | Microsoft Power Platform |
-| PL-200T00 | Microsoft Power Platform Functional Consultant | 40 | 1277 | Microsoft Power Platform |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/PL-200T00.md">PL-200T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/PL-200T00.md">Microsoft Power Platform Functional Consultant</a> | 40 | 1277 | Microsoft Power Platform |
 | PL-7002 | Create and Manage Automated Processes by Using Power Automate | 8 | 597 | Microsoft Power Platform |
 | PL-500T00 | Microsoft Power Automate RPA Developer | 40 | 1397 | Microsoft Power Platform |
 | SC-400T00 | Administering Information Protection and Compliance in Microsoft 365 | 32 | 1097 | Microsoft 365 |
