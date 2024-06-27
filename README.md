@@ -61,7 +61,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-4006.md">MS-4006</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-4006.md">Copilot for Microsoft 365 for Administrators</a> | 8 | 277 | Microsoft Copilot |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-4004.md">MS-4004</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-4004.md">Empower Your Workforce With Copilot for Microsoft 365 Use Cases</a> | 8 | 277 | Microsoft Copilot |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-4001.md">MS-4001</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-4001.md">Build Collaborative Apps for Microsoft Teams</a> | 8 | 597 | |
-| SC-300T00 | Microsoft Identity and Access Administrator | 32 | 1277 | |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/SC-300T00.md">SC-300T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/SC-300T00.md">Microsoft Identity and Access Administrator</a> | 32 | 1277 | |
 | PL-600T00 | Microsoft Power Platform Solution Architect | 32 | 1097 | Microsoft Power Platform |
 | SC-200T00 | Microsoft Security Operations Analyst | 32 | 1277 | Cyber Security |
 | PL-100T00 | Microsoft Power Platform App Maker | 24 | 1247 | Microsoft Power Platform |
