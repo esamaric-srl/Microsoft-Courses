@@ -97,7 +97,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-120T00.md">AZ-120T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-120T00.md">Planning and Deploying SAP on Azure | 24 | 1397 | Microsoft Azure</a> |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Az-1003.md">Az-1003</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Az-1003.md">Secure Storage for Azure Files and Azure Blob Storage</a> | 8 | 597 | Microsoft Azure |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-2008.md">AZ-2008</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-2008.md">DevOps Foundations: The Core Principles and Practices</a> | 8 | 597 | Azure DevOps |
-| AZ-1005 | Configuring Azure Virtual Desktop for the Enterprise | 8 | 357 | Microsoft Azure |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-1005.md">AZ-1005</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-1005.md">Configuring Azure Virtual Desktop for the Enterprise</a> | 8 | 357 | Microsoft Azure |
 | Az-1002 | Configure Secure Access to Your Workloads Using Networking With Azure Virtual Network | 8 | 597 | Microsoft Azure |
 | Az-2005 | Develop AI Agents Using Azure Openai and the Semantic Kernel SDK | 8 | 597 | Microsoft Azure |
 | Az-2003 | Deploy Cloud-Native Apps Using Azure Container Apps | 8 | 597 | Microsoft Azure |
