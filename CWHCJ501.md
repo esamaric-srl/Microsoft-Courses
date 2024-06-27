@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In the ever-evolving world of web development, mastering the core technologies of **HTML**, **CSS**, and **JavaScript** is essential for anyone looking to build a career in this dynamic field. The <a href="https://www.esamatic.it/corsi/programming-with-html-css-and-javascript-courseware">CWHCJ501: Programming with HTML, CSS, and JavaScript</a> offers a comprehensive and in-depth exploration of these fundamental web technologies, providing participants with the skills and knowledge needed to create modern, responsive, and interactive websites.
+In the ever-evolving world of web development, mastering the core technologies of **HTML**, **CSS**, and **JavaScript** is essential for anyone looking to build a career in this dynamic field. The <a href="https://www.esamatic.it/corsi/programming-with-html-css-and-javascript-courseware">CWHCJ501: Programming with HTML, CSS, and JavaScript</a> course, offers a comprehensive and in-depth exploration of these fundamental web technologies, providing participants with the skills and knowledge needed to create modern, responsive, and interactive websites.
 
 This intensive course goes beyond the basics, diving deep into advanced concepts and practical applications that will set you apart in the competitive world of web development. Whether you're a beginner looking to start a new career or an experienced developer aiming to sharpen your skills, CWHCJ501 offers a robust learning experience that will elevate your web development expertise.
 
