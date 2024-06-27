@@ -106,7 +106,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Az-1004.md">Az-1004</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Az-1004.md">Deploy and Configure Azure Monitor</a> | 8 | 597 | Microsoft Azure |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWWA2579.md">CWWA2579</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWWA2579.md">Technical Introduction to Microservices Training</a> | 14 | 1497.00 | Software Development |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWHCJ101.md">CWHCJ101</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWHCJ101.md">Rapid Introduction to HTML, CSS, and JavaScript</a> | 21 | 997.00 | Software Development |
-| CWHCJ501 | Programming with HTML, CSS, and JavaScript | 35 | 1747.00 | Software Development |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWHCJ501.md">CWHCJ501</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWHCJ501.md">Programming with HTML, CSS, and JavaScript</a> | 35 | 1747.00 | Software Development |
 | CW2023 | PowerShell for Windows and Linux Administrators | 35 | 2247.00 | |
 | CW4001 | Object-Oriented Programming in C# | 35 | 1997.00 | Software Development |
 | CWNCSF-PRACTITIONER | NIST Cybersecurity Framework (NCSF) Practitioner Training | 14 | 1247.00 | Cyber Security |
