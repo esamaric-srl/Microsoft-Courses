@@ -80,7 +80,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Sc-5002.md">Sc-5002</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Sc-5002.md">Secure Azure Services and Workloads With Microsoft Defender for Cloud Regulatory Compliance Controls</a> | 8 | 597 | Cyber Security |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/PL-400T00.md">PL-400T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/PL-400T00.md">Microsoft Power Platform Developer</a> | 40 | 1277 | Microsoft Power Platform |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Sc-5008.md">Sc-5008</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Sc-5008.md">Configure and Manage Entitlement With Microsoft Entra ID</a> | 8 | 597 | |
-| SC-900T00 | Microsoft Security, Compliance, and Identity Fundamentals | 8 | 277 | Cyber Security |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/SC-900T00.md">SC-900T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/SC-900T00.md">Microsoft Security, Compliance, and Identity Fundamentals</a> | 8 | 277 | Cyber Security |
 | AI-3004 | Build an Azure computer vision solution with AI services | 8 | 357 | Microsoft Azure |
 | AI-3017 | Microsoft AI for Business Leaders | 8 | 597 | |
 | AI-900T00 | Microsoft Azure AI Fundamentals | 8 | 277 | Microsoft Azure |
