@@ -77,7 +77,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/PL-7002.md">PL-7002</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/PL-7002.md">Create and Manage Automated Processes by Using Power Automate</a> | 8 | 597 | Microsoft Power Platform |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/PL-500T00.md">PL-500T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/PL-500T00.md">Microsoft Power Automate RPA Developer</a> | 40 | 1397 | Microsoft Power Platform |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/SC-400T00.md">SC-400T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/SC-400T00.md">Administering Information Protection and Compliance in Microsoft 365</a> | 32 | 1097 | Microsoft 365 |
-| Sc-5002 | Secure Azure Services and Workloads With Microsoft Defender for Cloud Regulatory Compliance Controls | 8 | 597 | Cyber Security |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Sc-5002.md">Sc-5002</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Sc-5002.md">Secure Azure Services and Workloads With Microsoft Defender for Cloud Regulatory Compliance Controls</a> | 8 | 597 | Cyber Security |
 | PL-400T00 | Microsoft Power Platform Developer | 40 | 1277 | Microsoft Power Platform |
 | Sc-5008 | Configure and Manage Entitlement With Microsoft Entra ID | 8 | 597 | |
 | SC-900T00 | Microsoft Security, Compliance, and Identity Fundamentals | 8 | 277 | Cyber Security |
