@@ -95,7 +95,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AI-3002.md">AI-3002</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AI-3002.md">Create Document Intelligence Solutions With Azure AI Document Intelligence</a> | 8 | 357 | Microsoft Azure |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Az-2001.md">Az-2001</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Az-2001.md">Implement Security Through a Pipeline Using Azure Devops</a> | 8 | 397 | Azure DevOps |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-120T00.md">AZ-120T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-120T00.md">Planning and Deploying SAP on Azure | 24 | 1397 | Microsoft Azure</a> |
-| Az-1003 | Secure Storage for Azure Files and Azure Blob Storage | 8 | 597 | Microsoft Azure |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Az-1003.md">Az-1003</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/Az-1003.md">Secure Storage for Azure Files and Azure Blob Storage</a> | 8 | 597 | Microsoft Azure |
 | AZ-2008 | DevOps Foundations: The Core Principles and Practices | 8 | 597 | Azure DevOps |
 | AZ-1005 | Configuring Azure Virtual Desktop for the Enterprise | 8 | 357 | Microsoft Azure |
 | Az-1002 | Configure Secure Access to Your Workloads Using Networking With Azure Virtual Network | 8 | 597 | Microsoft Azure |
