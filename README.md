@@ -84,7 +84,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AI-3004.md">AI-3004</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AI-3004.md">Build an Azure computer vision solution with AI services</a> | 8 | 357 | Microsoft Azure |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AI-3017.md">AI-3017</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AI-3017.md">Microsoft AI for Business Leaders</a> | 8 | 597 | |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AI-900T00.md">AI-900T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AI-900T00.md">Microsoft Azure AI Fundamentals</a> | 8 | 277 | Microsoft Azure |
-| AZ-204T00 | Developing Solutions for Microsoft Azure | 40 | 1277 | Software Development |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-204T00.md">AZ-204T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-204T00.md">Developing Solutions for Microsoft Azure</a> | 40 | 1277 | Software Development |
 | AI-3016 | Develop Copilots With Azure AI Studio | 8 | 597 | Microsoft Copilot |
 | AZ-140T00 | Configuring and Operating Microsoft Azure Virtual Desktop | 32 | 1397 | Microsoft Azure |
 | AI-3018 | Copilot Foundations | 8 | 597 | Microsoft Copilot |
