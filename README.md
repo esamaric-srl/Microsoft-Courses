@@ -68,7 +68,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/PL-300T00.md">PL-300T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/PL-300T00.md">Microsoft Power BI Data Analyst | 24 | 957 | Microsoft Power Platform</a> |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/SC-100T00.md">SC-100T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/SC-100T00.md">Microsoft Cybersecurity Architect</a> | 32 | 1397 | Cyber Security |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/PL-7001.md">PL-7001</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/PL-7001.md">Create and Manage Canvas Apps With Power Apps</a> | 8 | 597 | Microsoft Power Platform |
-| PL-7003 | Create and Manage Model-Driven Apps With Power Apps and Dataverse | 8 | 597 | Microsoft Power Platform |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/PL-7003.md">PL-7003</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/PL-7003.md">Create and Manage Model-Driven Apps With Power Apps and Dataverse</a> | 8 | 597 | Microsoft Power Platform |
 | Sc-5001 | Configure SIEM Security Operations Using Microsoft Sentinel | 8 | 597 | Cyber Security |
 | Sc-5007 | Implement Retention, Ediscovery, and Communication Compliance in Microsoft Purview | 8 | 597 | |
 | Sc-5006 | Get Started With Microsoft Copilot for Security | 8 | 597 | Microsoft Copilot |
