@@ -59,7 +59,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-335T00.md">MB-335T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-335T00.md">Microsoft Dynamics 365 Supply Chain Management, Expert</a> | 40 | 1397 | Microsoft Dynamics |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-721T00.md">MS-721T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-721T00.md">Collaboration Communications Systems Engineer</a> | 32 | 1397 | |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-4006.md">MS-4006</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-4006.md">Copilot for Microsoft 365 for Administrators</a> | 8 | 277 | Microsoft Copilot |
-| MS-4004 | Empower Your Workforce With Copilot for Microsoft 365 Use Cases | 8 | 277 | Microsoft Copilot |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-4004.md">MS-4004</a> | <a href=">Empower Your Workforce With Copilot for Microsoft 365 Use Cases</a> | 8 | 277 | Microsoft Copilot |
 | MS-4001 | Build Collaborative Apps for Microsoft Teams | 8 | 597 | |
 | SC-300T00 | Microsoft Identity and Access Administrator | 32 | 1277 | |
 | PL-600T00 | Microsoft Power Platform Solution Architect | 32 | 1097 | Microsoft Power Platform |
