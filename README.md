@@ -55,7 +55,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-080T00.md">MS-080T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-080T00.md">Employee Experience Platform Specialist</a> | 8 | 357 | |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-4008.md">MS-4008</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-4008.md">Copilot for Microsoft 365 Interactive Experience for Executives</a> | 8 | 597 | Microsoft Copilot |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-4010.md">MS-4010</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-4010.md">Build Plugins and Connectors for Microsoft Copilot for Microsoft 365</a> | 8 | 597 | Microsoft Copilot |
-| MS-4007 | Copilot for Microsoft 365 User Enablement Specialist | 8 | 277 | Microsoft Copilot |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-4007.md">MS-4007</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-4007.md">Copilot for Microsoft 365 User Enablement Specialist</a> | 8 | 277 | Microsoft Copilot |
 | MB-335T00 | Microsoft Dynamics 365 Supply Chain Management, Expert | 40 | 1397 | Microsoft Dynamics |
 | MS-721T00 | Collaboration Communications Systems Engineer | 32 | 1397 | |
 | MS-4006 | Copilot for Microsoft 365 for Administrators | 8 | 277 | Microsoft Copilot |
