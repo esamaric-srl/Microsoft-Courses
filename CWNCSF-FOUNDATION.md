@@ -2,13 +2,13 @@
 
 ## Introduction
 
-In an era where cyber threats are becoming increasingly sophisticated and pervasive, understanding the fundamentals of cybersecurity is crucial for organizations of all sizes. The CWNCSF-FOUNDATION course, "NIST Cybersecurity Framework Foundation Training," offers a comprehensive introduction to the **National Institute of Standards and Technology (NIST) Cybersecurity Framework**, providing a solid foundation for professionals looking to enhance their organization's security posture.
+In an era where cyber threats are becoming increasingly sophisticated and pervasive, understanding the fundamentals of cybersecurity is crucial for organizations of all sizes. The <a href="https://www.esamatic.it/corsi/nist-cybersecurity-framework-ncsf-foundation-training-courseware">CWNCSF-FOUNDATION: NIST Cybersecurity Framework Foundation Training</a> course, offers a comprehensive introduction to the **National Institute of Standards and Technology (NIST) Cybersecurity Framework**, providing a solid foundation for professionals looking to enhance their organization's security posture.
 
-This course is designed to demystify the NIST Cybersecurity Framework, making it accessible to individuals from various backgrounds, including IT professionals, managers, and executives who play a role in their organization's cybersecurity efforts. Whether you're new to cybersecurity or looking to formalize your knowledge, CWNCSF-FOUNDATION provides the essential insights needed to understand and begin implementing this globally recognized framework.
+This course is designed to demystify the NIST Cybersecurity Framework, making it accessible to individuals from various backgrounds, including IT professionals, managers, and executives who play a role in their organization's cybersecurity efforts. Whether you're new to cybersecurity or looking to formalize your knowledge, <a href="https://www.esamatic.it/corsi/nist-cybersecurity-framework-ncsf-foundation-training-courseware">CWNCSF-FOUNDATION</a> provides the essential insights needed to understand and begin implementing this globally recognized framework.
 
 ## Course Overview
 
-The CWNCSF-FOUNDATION course is a concise yet comprehensive training program that introduces participants to the core concepts of the NIST Cybersecurity Framework. Here's a quick snapshot of the course details:
+The <a href="https://www.esamatic.it/corsi/nist-cybersecurity-framework-ncsf-foundation-training-courseware">CWNCSF-FOUNDATION</a> course is a concise yet comprehensive training program that introduces participants to the core concepts of the NIST Cybersecurity Framework. Here's a quick snapshot of the course details:
 
 - **Duration**: 7 hours (typically a one-day intensive)
 - **Format**: Instructor-led training
@@ -201,3 +201,7 @@ In an era where cyber threats pose significant risks to organizations of all siz
 Whether you're looking to start a career in cybersecurity, enhance your current role with vital security knowledge, or simply gain the ability to contribute more effectively to your organization's security efforts, the CWNCSF-FOUNDATION course provides the perfect starting point. It offers a blend of theoretical knowledge and practical insights that will empower you to engage meaningfully with cybersecurity initiatives.
 
 Enroll in CWNCSF-FOUNDATION today and embark on your journey to becoming a more security-aware professional. In today's digital world, cybersecurity knowledge is power—and this course is your key to unlocking that power!
+
+## Are you searching for Microsoft Courses?
+Please visit our full list of <a href="https://github.com/esamaric-srl/Microsoft-Courses">Microsot Courses</a> and start your training session.
+
