@@ -52,7 +52,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MD-102T00.md">MD-102T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MD-102T00.md">Microsoft 365 Endpoint Administrator</a> | 40 | 1437 | Microsoft 365 |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-800T00.md">MB-800T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-800T00.md">Microsoft Dynamics 365 Business Central Functional Consultant</a> | 1397 | 2995 | Microsoft Dynamics |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-920T00.md">MB-920T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MB-920T00.md">Microsoft Dynamics 365 Fundamentals (ERP)</a> | 8 | 347 | Microsoft Dynamics |
-| MS-080T00 | Employee Experience Platform Specialist | 8 | 357 | |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-080T00.md">MS-080T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/MS-080T00.md">Employee Experience Platform Specialist</a> | 8 | 357 | |
 | MS-4008 | Copilot for Microsoft 365 Interactive Experience for Executives | 8 | 597 | Microsoft Copilot |
 | MS-4010 | Build Plugins and Connectors for Microsoft Copilot for Microsoft 365 | 8 | 597 | Microsoft Copilot |
 | MS-4007 | Copilot for Microsoft 365 User Enablement Specialist | 8 | 277 | Microsoft Copilot |
