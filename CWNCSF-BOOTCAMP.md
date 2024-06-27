@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In today's rapidly evolving digital landscape, cybersecurity has become a critical concern for organizations of all sizes. The <a hreff="https://www.esamatic.it/corsi/nist-cybersecurity-framework-ncsf-boot-camp-training-courseware">CWNCSF-BOOTCAMP: NIST Cybersecurity Framework Boot Camp Training</a> course, offers an intensive and comprehensive dive into the **National Institute of Standards and Technology (NIST) Cybersecurity Framework**. This boot camp is designed to equip professionals with the knowledge and skills needed to implement, maintain, and optimize cybersecurity practices using this globally recognized framework.
+In today's rapidly evolving digital landscape, cybersecurity has become a critical concern for organizations of all sizes. The <a href="https://www.esamatic.it/corsi/nist-cybersecurity-framework-ncsf-boot-camp-training-courseware">CWNCSF-BOOTCAMP: NIST Cybersecurity Framework Boot Camp Training</a> course, offers an intensive and comprehensive dive into the **National Institute of Standards and Technology (NIST) Cybersecurity Framework**. This boot camp is designed to equip professionals with the knowledge and skills needed to implement, maintain, and optimize cybersecurity practices using this globally recognized framework.
 
 Whether you're an IT professional looking to specialize in cybersecurity, a manager seeking to enhance your organization's security posture, or an executive aiming to understand the strategic implications of cybersecurity, this boot camp provides a thorough and practical exploration of the NIST Cybersecurity Framework.
 
