@@ -87,7 +87,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-204T00.md">AZ-204T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-204T00.md">Developing Solutions for Microsoft Azure</a> | 40 | 1277 | Software Development |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AI-3016.md">AI-3016</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AI-3016.md">Develop Copilots With Azure AI Studio</a> | 8 | 597 | Microsoft Copilot |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-140T00.md">AZ-140T00</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-140T00.md">Configuring and Operating Microsoft Azure Virtual Desktop</a> | 32 | 1397 | Microsoft Azure |
-| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-140T00.md">AI-3018</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-140T00.md">Copilot Foundations</a> | 8 | 597 | Microsoft Copilot |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AI-3018.md">AI-3018</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AI-3018.md">Copilot Foundations</a> | 8 | 597 | Microsoft Copilot |
 | AI-3003 | Build a Natural Language Processing Solution With Azure AI Services | 8 | 357 | Microsoft Azure |
 | AI-102T00 | Designing and Implementing a Microsoft Azure AI Solution | 32 | 1277 | Microsoft Azure |
 | Az-1001 | Deploy and Manage Containers Using Azure Kubernetes Service | 8 | 597 | |
