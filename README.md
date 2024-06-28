@@ -133,7 +133,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/tree/main">CWCDADS</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/tree/main">Continuous Delivery Using Azure DevOps Services</a> | 14 | 1497.00 | Azure DevOps |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWCICD.md">CWCICD</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWCICD.md">CI/CD Using Azure Pipelines</a> | 7 | 747.00 | Azure DevOps |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CW4002.md">CW4002</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CW4002.md">C# Essentials</a> | 21 | 1197.00 | Software Development |
-| CW4014 | C# and .NET Foundations | 35 | 1997.00 | Software Development |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CW4014.md">CW4014</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CW4014.md">C# and .NET Foundations</a> | 35 | 1997.00 | Software Development |
 | CWAQATP | Assuring Quality Using Azure Test Plans | 7 | 747.00 | Software Development |
 | CW4043 | ASP.NET Core MVC | 14 | 797.00 | Software Development |
 | CWWA2895 | API Management Fundamentals for Architects | 14 | 1497.00 | Software Development |
