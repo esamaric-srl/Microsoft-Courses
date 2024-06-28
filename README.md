@@ -130,7 +130,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CW55340AC.md">CW55340AC</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CW55340AC.md">Developing ASP.NET Core Web Applications</a> | 35 | 2237.00 | Software Development |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWSSDT2022.md">CWSSDT2022</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWSSDT2022.md">Delivering High-Quality Databases Using Visual Studio 2022</a> | 14 | 1497.00 | Software Development |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWWFM101.md">CWWFM101</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWWFM101.md">Creating, Styling, and Validating Web Forms</a> | 21 | 1047.00 | Software Development |
-| CWCDADS | Continuous Delivery Using Azure DevOps Services | 14 | 1497.00 | Azure DevOps |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/tree/main">CWCDADS</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/tree/main">Continuous Delivery Using Azure DevOps Services</a> | 14 | 1497.00 | Azure DevOps |
 | CWCICD | CI/CD Using Azure Pipelines | 7 | 747.00 | Azure DevOps |
 | CW4002 | C# Essentials | 21 | 1197.00 | Software Development |
 | CW4014 | C# and .NET Foundations | 35 | 1997.00 | Software Development |
