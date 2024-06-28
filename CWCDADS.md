@@ -2,13 +2,13 @@
 
 ## Introduction
 
-In the fast-paced world of software development, the ability to deliver high-quality applications quickly and consistently is paramount. The CWCDADS course, "Continuous Delivery Using Azure DevOps Services," offers a comprehensive exploration of implementing **continuous delivery** practices using Microsoft's powerful **Azure DevOps** platform. This course is designed to equip developers, IT professionals, and project managers with the knowledge and skills needed to streamline the software delivery process and enhance overall development efficiency.
+In the fast-paced world of software development, the ability to deliver high-quality applications quickly and consistently is paramount. The <a href="https://www.esamatic.it/corsi/continuous-delivery-using-azure-devops-services-courseware">CWCDADS: Continuous Delivery Using Azure DevOps Services</a> course, offers a comprehensive exploration of implementing **continuous delivery** practices using Microsoft's powerful **Azure DevOps** platform. This course is designed to equip developers, IT professionals, and project managers with the knowledge and skills needed to streamline the software delivery process and enhance overall development efficiency.
 
-Whether you're a seasoned DevOps practitioner looking to leverage Azure DevOps, a developer aiming to improve your deployment practices, or an IT professional transitioning into a DevOps role, CWCDADS provides a solid foundation and advanced techniques for mastering continuous delivery. This course demystifies the complexities of modern software delivery and empowers you to implement robust, automated pipelines for your projects.
+Whether you're a seasoned DevOps practitioner looking to leverage Azure DevOps, a developer aiming to improve your deployment practices, or an IT professional transitioning into a DevOps role, <a href="https://www.esamatic.it/corsi/continuous-delivery-using-azure-devops-services-courseware">CWCDADS</a> provides a solid foundation and advanced techniques for mastering continuous delivery. This course demystifies the complexities of modern software delivery and empowers you to implement robust, automated pipelines for your projects.
 
 ## Course Overview
 
-The CWCDADS course is an intensive training program that covers the core concepts and practical implementation of continuous delivery using Azure DevOps Services. Here's a quick snapshot of the course details:
+The <a href="https://www.esamatic.it/corsi/continuous-delivery-using-azure-devops-services-courseware">CWCDADS</a> course is an intensive training program that covers the core concepts and practical implementation of continuous delivery using Azure DevOps Services. Here's a quick snapshot of the course details:
 
 - **Duration**: 14 hours (typically spread over 2 days)
 - **Format**: Instructor-led training
@@ -199,3 +199,6 @@ In today's fast-paced software development world, where rapid and reliable deliv
 Whether you're looking to advance your career in DevOps, improve your organization's software delivery capabilities, or simply stay ahead of the curve in development practices, the CWCDADS course provides the perfect blend of theoretical knowledge and practical skills. Don't miss this chance to become proficient in implementing continuous delivery using one of the most powerful DevOps platforms available.
 
 Enroll in CWCDADS today and embark on your journey to becoming a continuous delivery expert. The world of efficient, reliable, and automated software delivery awaits you!
+
+## Are you searching for Microsoft Courses?
+Please visit our full list of <a href="https://github.com/esamaric-srl/Microsoft-Courses">Microsot Courses</a> and start your training session.
