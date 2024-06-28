@@ -8,7 +8,7 @@ Whether you're a complete novice in programming, a web designer looking to expan
 
 ## Course Overview
 
-The <a href="https://www.esamatic.it/corsi/introduction-to-javascript-courseware">CWJSC101 Introduction to JavaScript course is an intensive training program that covers the core concepts of JavaScript programming. Here's a quick snapshot of the course details:
+The <a href="https://www.esamatic.it/corsi/introduction-to-javascript-courseware">CWJSC101</a> Introduction to JavaScript course is an intensive training program that covers the core concepts of JavaScript programming. Here's a quick snapshot of the course details:
 
 - **Duration**: 28 hours (typically spread over 4 days)
 - **Format**: Instructor-led training
