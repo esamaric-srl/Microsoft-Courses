@@ -2,13 +2,13 @@
 
 ## Introduction
 
-In the ever-evolving world of web development, **JavaScript** remains at the forefront, continually expanding its capabilities and complexity. The CWJSC151 course, "Advanced JavaScript Concepts," offers an in-depth exploration of the language's more advanced features and patterns. This course is designed to take experienced JavaScript developers to the next level, providing them with the knowledge and skills needed to write more efficient, robust, and sophisticated code.
+In the ever-evolving world of web development, **JavaScript** remains at the forefront, continually expanding its capabilities and complexity. The <a href="https://www.esamatic.it/corsi/advanced-javascript-concepts">CWJSC151: Advanced JavaScript Concepts</a> offers an in-depth exploration of the language's more advanced features and patterns. This course is designed to take experienced JavaScript developers to the next level, providing them with the knowledge and skills needed to write more efficient, robust, and sophisticated code.
 
-Whether you're a seasoned front-end developer looking to deepen your JavaScript expertise, a back-end developer aiming to enhance your full-stack capabilities, or a software engineer seeking to master modern JavaScript paradigms, CWJSC151 offers the advanced insights and practical skills you need to excel in today's competitive development landscape.
+Whether you're a seasoned front-end developer looking to deepen your JavaScript expertise, a back-end developer aiming to enhance your full-stack capabilities, or a software engineer seeking to master modern JavaScript paradigms, <a href="https://www.esamatic.it/corsi/advanced-javascript-concepts">CWJSC151</a> offers the advanced insights and practical skills you need to excel in today's competitive development landscape.
 
 ## Course Overview
 
-The CWJSC151 Advanced JavaScript Concepts course is an intensive training program that delves into the more complex aspects of JavaScript. Here's a quick snapshot of the course details:
+The <a href="https://www.esamatic.it/corsi/advanced-javascript-concepts">CWJSC151</a> Advanced JavaScript Concepts course is an intensive training program that delves into the more complex aspects of JavaScript. Here's a quick snapshot of the course details:
 
 - **Duration**: 7 hours (typically a one-day intensive)
 - **Format**: Instructor-led training
@@ -195,3 +195,7 @@ In today's technology-driven world, where web applications are becoming increasi
 Whether you're looking to advance your career as a JavaScript developer, improve your organization's frontend architecture, or simply push the boundaries of what's possible with JavaScript, the CWJSC151 course provides the perfect blend of theoretical knowledge and practical skills. Don't miss this chance to join the ranks of elite JavaScript developers.
 
 Enroll in CWJSC151 today and embark on your journey to JavaScript mastery. The world of advanced web development awaits you!
+
+## Are you searching for Microsoft Courses?
+Please visit our full list of <a href="https://github.com/esamaric-srl/Microsoft-Courses">Microsot Courses</a> and start your training session.
+
