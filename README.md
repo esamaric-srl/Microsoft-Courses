@@ -113,7 +113,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWNCSF-FOUNDATION.md">CWNCSF-FOUNDATION</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWNCSF-FOUNDATION.md">NIST Cybersecurity Framework (NCSF) Foundation Training</a> | 7 | 747.00 | Cyber Security |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWNCSF-BOOTCAMP.md">CWNCSF-BOOTCAMP</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWNCSF-BOOTCAMP.md">NIST Cybersecurity Framework (NCSF) Boot Camp Training</a> | 21 | 1497.00 | Cyber Security |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWM55616A.md">CWM55616A</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWM55616A.md">Microsoft Copilot Overview for IT Professionals</a> | 7 | 797.00 | Microsoft Copilot |
-| AZ-900 | Microsoft Azure Fundamentals | 7 | 527.00 | Microsoft Azure |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-900.md">AZ-900</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/AZ-900.md">Microsoft Azure Fundamentals</a> | 7 | 527.00 | Microsoft Azure |
 | CWMARS | Mastering Azure Repos | 7 | 747.00 | Azure DevOps |
 | CWWA3007 | Kubernetes for Developers | 21 | 2147.00 | |
 | CWSHP365.5 | Introduction to SharePoint for Office 365 Training | 7 | 347.00 | |
