@@ -2,13 +2,13 @@
 
 ## Introduction
 
-In the fast-paced world of software development, efficient version control and collaboration are crucial for project success. The CWMARS course, "Mastering Azure Repos," offers an in-depth exploration of **Microsoft's powerful version control system** within the Azure DevOps ecosystem. This comprehensive training is designed to equip developers, IT professionals, and DevOps practitioners with the knowledge and skills needed to leverage Azure Repos effectively in their development workflows.
+In the fast-paced world of software development, efficient version control and collaboration are crucial for project success. The <a href="https://www.esamatic.it/corsi/mastering-azure-repos-courseware">CWMARS: Mastering Azure Repos</a> course, offers an in-depth exploration of **Microsoft's powerful version control system** within the Azure DevOps ecosystem. This comprehensive training is designed to equip developers, IT professionals, and DevOps practitioners with the knowledge and skills needed to leverage Azure Repos effectively in their development workflows.
 
-Whether you're new to version control or looking to transition from other systems, the CWMARS course provides a thorough understanding of Azure Repos' features, best practices, and integration capabilities. By mastering Azure Repos, you'll be able to streamline your development process, improve team collaboration, and enhance the overall quality of your software projects.
+Whether you're new to version control or looking to transition from other systems, the <a href="https://www.esamatic.it/corsi/mastering-azure-repos-courseware">CWMARS</a> course provides a thorough understanding of Azure Repos' features, best practices, and integration capabilities. By mastering Azure Repos, you'll be able to streamline your development process, improve team collaboration, and enhance the overall quality of your software projects.
 
 ## Course Overview
 
-The CWMARS Mastering Azure Repos course is an intensive training program that covers all aspects of Azure Repos, from basic concepts to advanced usage. Here's a quick snapshot of the course details:
+The <a href="https://www.esamatic.it/corsi/mastering-azure-repos-courseware">CWMARS</a> Mastering Azure Repos course is an intensive training program that covers all aspects of Azure Repos, from basic concepts to advanced usage. Here's a quick snapshot of the course details:
 
 - **Duration**: 7 hours (typically a one-day intensive)
 - **Format**: Instructor-led training
@@ -200,3 +200,6 @@ In today's fast-paced software development environment, proficiency in tools lik
 Whether you're looking to advance your career in software development, improve your team's collaboration practices, or simply gain a deeper understanding of modern version control techniques, the CWMARS course provides the perfect blend of theoretical knowledge and practical application. Don't miss this chance to transform your version control skills and become a master of Azure Repos.
 
 Enroll in CWMARS today and embark on your journey to becoming an Azure Repos expert. The future of efficient, collaborative software development is at your fingertips!
+
+## Are you searching for Microsoft Courses?
+Please visit our full list of <a href="https://github.com/esamaric-srl/Microsoft-Courses">Microsot Courses</a> and start your training session.
