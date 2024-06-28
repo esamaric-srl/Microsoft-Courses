@@ -2,13 +2,13 @@
 
 ## Introduction
 
-In the rapidly evolving world of software development, the ability to deliver high-quality code quickly and consistently is paramount. The CWCICD course, "CI/CD Using Azure Pipelines," offers a comprehensive exploration of **Continuous Integration** and **Continuous Delivery** practices using Microsoft's powerful **Azure Pipelines** platform. This course is designed to equip developers, DevOps engineers, and IT professionals with the knowledge and skills needed to implement robust, automated pipelines for efficient software delivery.
+In the rapidly evolving world of software development, the ability to deliver high-quality code quickly and consistently is paramount. The <a href="https://www.esamatic.it/corsi/ci-cd-using-azure-pipelines-courseware">CWCICD: I/CD Using Azure Pipelines</a> course offers a comprehensive exploration of **Continuous Integration** and **Continuous Delivery** practices using Microsoft's powerful **Azure Pipelines** platform. This course is designed to equip developers, DevOps engineers, and IT professionals with the knowledge and skills needed to implement robust, automated pipelines for efficient software delivery.
 
-Whether you're a seasoned developer looking to streamline your deployment process, a DevOps enthusiast aiming to enhance your skillset, or an IT professional transitioning into a more development-focused role, CWCICD provides a solid foundation and advanced techniques for mastering CI/CD. This course demystifies the complexities of modern software delivery and empowers you to create efficient, reliable pipelines for your projects.
+Whether you're a seasoned developer looking to streamline your deployment process, a DevOps enthusiast aiming to enhance your skillset, or an IT professional transitioning into a more development-focused role, <a href="https://www.esamatic.it/corsi/ci-cd-using-azure-pipelines-courseware">CWCICD</a> provides a solid foundation and advanced techniques for mastering CI/CD. This course demystifies the complexities of modern software delivery and empowers you to create efficient, reliable pipelines for your projects.
 
 ## Course Overview
 
-The CWCICD course is an intensive training program that covers the core concepts and practical implementation of CI/CD using Azure Pipelines. Here's a quick snapshot of the course details:
+The <a href="https://www.esamatic.it/corsi/ci-cd-using-azure-pipelines-courseware">CWCICD</a> course is an intensive training program that covers the core concepts and practical implementation of CI/CD using Azure Pipelines. Here's a quick snapshot of the course details:
 
 - **Duration**: 7 hours (typically a one-day intensive)
 - **Format**: Instructor-led training
@@ -205,3 +205,7 @@ In today's fast-paced software development world, where rapid and reliable deliv
 Whether you're looking to advance your career in DevOps, improve your organization's software delivery capabilities, or simply stay ahead of the curve in development practices, the CWCICD course provides the perfect blend of theoretical knowledge and practical skills. Don't miss this chance to become proficient in implementing CI/CD using one of the most powerful pipeline platforms available.
 
 Enroll in CWCICD today and embark on your journey to becoming a CI/CD expert. The world of efficient, reliable, and automated software delivery awaits you!
+
+## Are you searching for Microsoft Courses?
+Please visit our full list of <a href="https://github.com/esamaric-srl/Microsoft-Courses">Microsot Courses</a> and start your training session.
+
