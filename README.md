@@ -122,7 +122,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWWA2755.md">CWWA2755</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWWA2755.md">Introduction to Microservices Architecture</a> | 14 | 1497.00 | Software Development |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWJSC101.md">CWJSC101</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWJSC101.md">Introduction to JavaScript</a> | 28 | 1397.00 | Software Development |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWHTM102.md">CWHTM102</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWHTM102.md">Introduction to HTML Training</a> | 14 | 697.00 | Software Development |
-|<a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CW20742WV.md>CW20742WV</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CW20742WV.md">Identity with Windows Server</a> | 35 | 1997.00 | |
+|<a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CW20742WV">CW20742WV</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CW20742WV.md">Identity with Windows Server</a> | 35 | 1997.00 | |
 | CW55374AC | Fundamentals of Cybersecurity and Zero Trust | 7 | 497.00 | Cyber Security |
 | CW55152 | Fundamentals of Active Directory | 7 | 447.00 | |
 | CWWA3003 | Docker and Kubernetes Fundamentals | 21 | 2247.00 | |
