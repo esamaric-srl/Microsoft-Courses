@@ -2,13 +2,13 @@
 
 ## Introduction
 
-In the vast landscape of web technologies, **HTML** (Hypertext Markup Language) stands as the cornerstone of web development. The CWHTM102 course, "Introduction to HTML Training," offers a comprehensive and engaging entry point into this fundamental language of the web. This course is designed to equip beginners and aspiring web developers with the essential knowledge and skills needed to create the structure and content of web pages.
+In the vast landscape of web technologies, **HTML** (Hypertext Markup Language) stands as the cornerstone of web development. The <a href="https://www.esamatic.it/corsi/introduction-to-html-training-courseware">CWHTM102: Introduction to HTML Training</a> course, offers a comprehensive and engaging entry point into this fundamental language of the web. This course is designed to equip beginners and aspiring web developers with the essential knowledge and skills needed to create the structure and content of web pages.
 
 Whether you're a complete novice in web development, a designer looking to understand the technical side of web creation, or a professional from another field interested in expanding your digital skills, CWHTM102 provides a solid foundation in HTML. This course demystifies the basics of web page structure and empowers you to create your own web content from scratch.
 
 ## Course Overview
 
-The CWHTM102 Introduction to HTML Training course is a focused and intensive program that covers the core concepts of HTML. Here's a quick snapshot of the course details:
+The <a href="https://www.esamatic.it/corsi/introduction-to-html-training-courseware">CWHTM102</a> Introduction to HTML Training course is a focused and intensive program that covers the core concepts of HTML. Here's a quick snapshot of the course details:
 
 - **Duration**: 14 hours (typically spread over 2 days)
 - **Format**: Instructor-led training
@@ -30,7 +30,7 @@ Before diving into the course content, it's crucial to understand why learning H
 
 ## Course Curriculum
 
-The CWHTM102 course is meticulously structured to provide a comprehensive introduction to HTML. Here's an overview of what participants can expect to learn:
+The <a href="https://www.esamatic.it/corsi/introduction-to-html-training-courseware">CWHTM102</a> course is meticulously structured to provide a comprehensive introduction to HTML. Here's an overview of what participants can expect to learn:
 
 ### Day 1: HTML Basics and Page Structure
 
@@ -198,3 +198,7 @@ In today's digital-first world, where having an online presence is crucial for i
 Whether you're looking to start a career in web development, enhance your current skill set, or simply satisfy your curiosity about how websites are built, the CWHTM102 course provides the perfect blend of theoretical knowledge and practical application. It offers a supportive environment to learn, experiment, and grow your HTML skills.
 
 Enroll in CWHTM102 today and take the first step towards becoming a proficient web developer. Remember, every website starts with HTML – this course could be the beginning of your journey to creating amazing web experiences!
+
+## Are you searching for Microsoft Courses?
+Please visit our full list of <a href="https://github.com/esamaric-srl/Microsoft-Courses">Microsot Courses</a> and start your training session.
+
