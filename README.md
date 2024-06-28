@@ -128,7 +128,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWWA3003.md">CWWA3003</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWWA3003.md">Docker and Kubernetes Fundamentals</a> | 21 | 2247.00 | |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWREST_JAX-RS.md">CWREST_JAX-RS</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWREST_JAX-RS.md">Developing RESTful Services with REST/JAX-RS</a> | 21 | 1497.00 | Software Development |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CW55340AC.md">CW55340AC</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CW55340AC.md">Developing ASP.NET Core Web Applications</a> | 35 | 2237.00 | Software Development |
-| CWSSDT2022 | Delivering High-Quality Databases Using Visual Studio 2022 | 14 | 1497.00 | Software Development |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWSSDT2022.md">CWSSDT2022</a> | <a hef="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWSSDT2022.md">Delivering High-Quality Databases Using Visual Studio 2022</a> | 14 | 1497.00 | Software Development |
 | CWWFM101 | Creating, Styling, and Validating Web Forms | 21 | 1047.00 | Software Development |
 | CWCDADS | Continuous Delivery Using Azure DevOps Services | 14 | 1497.00 | Azure DevOps |
 | CWCICD | CI/CD Using Azure Pipelines | 7 | 747.00 | Azure DevOps |
