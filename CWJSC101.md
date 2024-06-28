@@ -2,13 +2,13 @@
 
 ## Introduction
 
-In the ever-evolving world of web development, **JavaScript** stands out as a cornerstone technology that powers the interactive and dynamic aspects of modern websites. The CWJSC101 course, "Introduction to JavaScript," offers an comprehensive and engaging entry point into this versatile programming language. This course is designed to equip beginners and aspiring developers with the fundamental knowledge and skills needed to start creating dynamic, interactive web content.
+In the ever-evolving world of web development, **JavaScript** stands out as a cornerstone technology that powers the interactive and dynamic aspects of modern websites. The <a href="https://www.esamatic.it/corsi/introduction-to-javascript-courseware">CWJSC101: Introduction to JavaScript</a> course, offers an comprehensive and engaging entry point into this versatile programming language. This course is designed to equip beginners and aspiring developers with the fundamental knowledge and skills needed to start creating dynamic, interactive web content.
 
-Whether you're a complete novice in programming, a web designer looking to expand your skill set, or a professional from another field interested in transitioning to web development, CWJSC101 provides a solid foundation in JavaScript programming. This course demystifies the basics of JavaScript and empowers you to bring your web pages to life with interactivity and functionality.
+Whether you're a complete novice in programming, a web designer looking to expand your skill set, or a professional from another field interested in transitioning to web development, <a href="https://www.esamatic.it/corsi/introduction-to-javascript-courseware">CWJSC101</a> provides a solid foundation in JavaScript programming. This course demystifies the basics of JavaScript and empowers you to bring your web pages to life with interactivity and functionality.
 
 ## Course Overview
 
-The CWJSC101 Introduction to JavaScript course is an intensive training program that covers the core concepts of JavaScript programming. Here's a quick snapshot of the course details:
+The <a href="https://www.esamatic.it/corsi/introduction-to-javascript-courseware">CWJSC101 Introduction to JavaScript course is an intensive training program that covers the core concepts of JavaScript programming. Here's a quick snapshot of the course details:
 
 - **Duration**: 28 hours (typically spread over 4 days)
 - **Format**: Instructor-led training
@@ -212,3 +212,7 @@ In today's digital age, where interactive and dynamic websites are the norm, und
 Whether you're looking to start a career in web development, enhance your current skill set, or simply satisfy your curiosity about how interactive websites work, the CWJSC101 course provides the perfect blend of theoretical knowledge and practical application. It offers a supportive environment to learn, experiment, and grow your JavaScript skills.
 
 Enroll in CWJSC101 today and take the first step towards becoming a proficient JavaScript developer. Remember, every expert programmer started with writing their first line of code – this course could be the beginning of your success story in web development!
+
+## Are you searching for Microsoft Courses?
+Please visit our full list of <a href="https://github.com/esamaric-srl/Microsoft-Courses">Microsot Courses</a> and start your training session.
+
