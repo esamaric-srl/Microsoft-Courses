@@ -141,7 +141,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWAWS201.md">CWAWS201</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWAWS201.md">Apache Web Server Administration for Linux</a> | 14 | 697.00 | |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWJSC151.md">CWJSC151</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWJSC151.md">Advanced JavaScript Concepts</a> | 7 | 247.00 | Software Development |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CW4012.md">CW4012</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CW4012.md">.NET Foundations</a> | 14 | 797.00 | Software Development |
-| EM36112 | Blazor Course: Development of Interactive Web Applications with C# | 21 | 997.00 | Software Development |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/EM36112.md">EM36112</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/EM36112.md">Blazor Course: Development of Interactive Web Applications with C#</a> | 21 | 997.00 | Software Development |
 
 This extensive <a href="https://www.esamatic.it/corsi">Microsoft Courses</a> catalog presents a diverse and comprehensive array of technical training programs, primarily centered around Microsoft technologies and related IT skills. The catalog is designed to cater to a wide range of professionals in the technology sector, from beginners to seasoned experts, offering a robust selection of courses that cover the breadth and depth of modern IT landscapes.
 
