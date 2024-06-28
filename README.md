@@ -137,7 +137,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWAQATP.md">CWAQATP</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWAQATP.md">Assuring Quality Using Azure Test Plans</a> | 7 | 747.00 | Software Development |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CW4043.md">CW4043</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CW4043.md">ASP.NET Core MVC</a> | 14 | 797.00 | Software Development |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWWA2895.md">CWWA2895</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWWA2895.md">API Management Fundamentals for Architects</a> | 14 | 1497.00 | Software Development |
-| CWAWS101 | Apache Web Server Administration for Windows | 14 | 697.00 | |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWAWS101.md">CWAWS101</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWAWS101.md">Apache Web Server Administration for Windows</a> | 14 | 697.00 | |
 | CWAWS201 | Apache Web Server Administration for Linux | 14 | 697.00 | |
 | CWJSC151 | Advanced JavaScript Concepts | 7 | 247.00 | Software Development |
 | CW4012 | .NET Foundations | 14 | 797.00 | Software Development |
