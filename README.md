@@ -139,7 +139,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWWA2895.md">CWWA2895</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWWA2895.md">API Management Fundamentals for Architects</a> | 14 | 1497.00 | Software Development |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWAWS101.md">CWAWS101</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWAWS101.md">Apache Web Server Administration for Windows</a> | 14 | 697.00 | |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWAWS201.md">CWAWS201</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWAWS201.md">Apache Web Server Administration for Linux</a> | 14 | 697.00 | |
-| CWJSC151 | Advanced JavaScript Concepts | 7 | 247.00 | Software Development |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWJSC151.md">CWJSC151</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWJSC151.md">Advanced JavaScript Concepts</a> | 7 | 247.00 | Software Development |
 | CW4012 | .NET Foundations | 14 | 797.00 | Software Development |
 | EM36112 | Blazor Course: Development of Interactive Web Applications with C# | 21 | 997.00 | Software Development |
 
