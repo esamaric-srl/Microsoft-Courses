@@ -2,13 +2,13 @@
 
 ## Introduction
 
-In the ever-evolving landscape of web development, **RESTful services** have become a cornerstone of modern, scalable applications. The CWREST_JAX-RS course, "Developing RESTful Services with REST/JAX-RS," offers an in-depth exploration of creating robust and efficient RESTful web services using the **JAX-RS** (Java API for RESTful Web Services) specification. This comprehensive course is designed to equip developers with the knowledge and skills needed to design, implement, and deploy RESTful services in Java environments.
+In the ever-evolving landscape of web development, **RESTful services** have become a cornerstone of modern, scalable applications. The <a href="https://www.esamatic.it/corsi/developing-restful-services-with-rest-jax-rs-courseware">CWREST_JAX-RS: Developing RESTful Services with REST/JAX-RS</a> course, offers an in-depth exploration of creating robust and efficient RESTful web services using the **JAX-RS** (Java API for RESTful Web Services) specification. This comprehensive course is designed to equip developers with the knowledge and skills needed to design, implement, and deploy RESTful services in Java environments.
 
-Whether you're a seasoned Java developer looking to expand your skillset, a web developer interested in backend technologies, or an architect aiming to design scalable web services, CWREST_JAX-RS provides a solid foundation in RESTful service development. This course demystifies the concepts of REST architecture and empowers you to create powerful, standards-compliant web services using JAX-RS.
+Whether you're a seasoned Java developer looking to expand your skillset, a web developer interested in backend technologies, or an architect aiming to design scalable web services, <a href="https://www.esamatic.it/corsi/developing-restful-services-with-rest-jax-rs-courseware">CWREST_JAX-RS</a> provides a solid foundation in RESTful service development. This course demystifies the concepts of REST architecture and empowers you to create powerful, standards-compliant web services using JAX-RS.
 
 ## Course Overview
 
-The CWREST_JAX-RS course is an intensive training program that covers the core concepts and practical aspects of developing RESTful services with JAX-RS. Here's a quick snapshot of the course details:
+The <a href="https://www.esamatic.it/corsi/developing-restful-services-with-rest-jax-rs-courseware">CWREST_JAX-RS</a> course is an intensive training program that covers the core concepts and practical aspects of developing RESTful services with JAX-RS. Here's a quick snapshot of the course details:
 
 - **Duration**: 21 hours (typically spread over 3 days)
 - **Format**: Instructor-led training
@@ -212,3 +212,6 @@ In today's API-driven world, where scalable and efficient web services are the b
 Whether you're looking to advance your career in Java development, enhance your organization's API strategy, or simply stay ahead of the curve in web technologies, the CWREST_JAX-RS course provides the perfect blend of theoretical knowledge and practical skills. Don't miss this chance to become proficient in creating robust, efficient, and scalable RESTful services using JAX-RS.
 
 Enroll in CWREST_JAX-RS today and embark on your journey to becoming a RESTful service development expert. The world of efficient, scalable, and standardized web services awaits you!
+
+## Are you searching for Microsoft Courses?
+Please visit our full list of <a href="https://github.com/esamaric-srl/Microsoft-Courses">Microsot Courses</a> and start your training session.
