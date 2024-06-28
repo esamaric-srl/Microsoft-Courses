@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In the rapidly evolving landscape of software development, ensuring the quality of applications is paramount. The <a href="https://www.esamatic.it/corsi/assuring-quality-using-azure-test-plans"CWAQATP: Assuring Quality Using Azure Test Plans</a> course, offers a comprehensive exploration of modern testing practices using Microsoft's powerful **Azure DevOps** platform. This course is designed to equip testers, developers, and quality assurance professionals with the knowledge and skills needed to implement robust testing strategies and improve overall software quality.
+In the rapidly evolving landscape of software development, ensuring the quality of applications is paramount. The <a href="https://www.esamatic.it/corsi/assuring-quality-using-azure-test-plans">CWAQATP: Assuring Quality Using Azure Test Plans</a> course, offers a comprehensive exploration of modern testing practices using Microsoft's powerful **Azure DevOps** platform. This course is designed to equip testers, developers, and quality assurance professionals with the knowledge and skills needed to implement robust testing strategies and improve overall software quality.
 
 Whether you're a seasoned tester looking to leverage Azure DevOps, a developer aiming to enhance your testing practices, or a quality assurance manager seeking to optimize your team's testing processes, <a href="https://www.esamatic.it/corsi/assuring-quality-using-azure-test-plans">CWAQATP</a> provides a solid foundation and advanced techniques for mastering software testing in the cloud era.
 
