@@ -126,7 +126,7 @@
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CW55374AC.md">CW55374AC</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CW55374AC.md">Fundamentals of Cybersecurity and Zero Trust</a> | 7 | 497.00 | Cyber Security |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CW55152.md">CW55152</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CW55152.md">Fundamentals of Active Directory</a> | 7 | 447.00 | |
 | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWWA3003.md">CWWA3003</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWWA3003.md">Docker and Kubernetes Fundamentals</a> | 21 | 2247.00 | |
-| CWREST_JAX-RS | Developing RESTful Services with REST/JAX-RS | 21 | 1497.00 | Software Development |
+| <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWREST_JAX-RS.md">CWREST_JAX-RS</a> | <a href="https://github.com/esamaric-srl/Microsoft-Courses/blob/main/CWREST_JAX-RS.md">Developing RESTful Services with REST/JAX-RS</a> | 21 | 1497.00 | Software Development |
 | CW55340AC | Developing ASP.NET Core Web Applications | 35 | 2237.00 | Software Development |
 | CWSSDT2022 | Delivering High-Quality Databases Using Visual Studio 2022 | 14 | 1497.00 | Software Development |
 | CWWFM101 | Creating, Styling, and Validating Web Forms | 21 | 1047.00 | Software Development |
