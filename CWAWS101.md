@@ -2,13 +2,13 @@
 
 ## Introduction
 
-In the ever-evolving landscape of web hosting, the **Apache Web Server** remains a cornerstone technology, renowned for its reliability, flexibility, and robust feature set. The CWAWS101 course, "Apache Web Server Administration for Windows," offers a comprehensive exploration of managing this powerful web server in a Windows environment. This course is designed to equip IT professionals, system administrators, and web developers with the knowledge and skills needed to effectively deploy, configure, and maintain Apache on Windows platforms.
+In the ever-evolving landscape of web hosting, the **Apache Web Server** remains a cornerstone technology, renowned for its reliability, flexibility, and robust feature set. The <a href="https://www.esamatic.it/corsi/apache-web-server-administration-for-windows">CWAWS101: Apache Web Server Administration for Windows</a> course, offers a comprehensive exploration of managing this powerful web server in a Windows environment. This course is designed to equip IT professionals, system administrators, and web developers with the knowledge and skills needed to effectively deploy, configure, and maintain Apache on Windows platforms.
 
 Whether you're a seasoned Windows administrator looking to expand your web hosting capabilities, a developer aiming to understand the intricacies of web server management, or an IT professional transitioning into web administration, CWAWS101 provides a solid foundation and practical insights into Apache Web Server administration on Windows.
 
 ## Course Overview
 
-The CWAWS101 Apache Web Server Administration for Windows course is an intensive training program that covers the core concepts and practical aspects of managing Apache in a Windows environment. Here's a quick snapshot of the course details:
+The <a href="https://www.esamatic.it/corsi/apache-web-server-administration-for-windows">CWAWS101</a> Apache Web Server Administration for Windows course is an intensive training program that covers the core concepts and practical aspects of managing Apache in a Windows environment. Here's a quick snapshot of the course details:
 
 - **Duration**: 14 hours (typically spread over 2 days)
 - **Format**: Instructor-led training
@@ -30,7 +30,7 @@ Before diving into the course content, it's crucial to understand why mastering 
 
 ## Course Curriculum
 
-The CWAWS101 course is meticulously structured to cover all essential aspects of Apache Web Server administration on Windows. Here's an overview of what participants can expect to learn:
+The <a href="https://www.esamatic.it/corsi/apache-web-server-administration-for-windows">CWAWS101</a> course is meticulously structured to cover all essential aspects of Apache Web Server administration on Windows. Here's an overview of what participants can expect to learn:
 
 ### Day 1: Foundations and Basic Configuration
 
@@ -200,3 +200,7 @@ In today's diverse IT landscape, where the ability to work with various technolo
 Whether you're looking to advance your career in IT administration, improve your organization's web hosting capabilities, or simply broaden your technological skillset, the CWAWS101 course provides the perfect blend of theoretical knowledge and practical skills. Don't miss this chance to become proficient in managing Apache Web Server on Windows platforms.
 
 Enroll in CWAWS101 today and embark on your journey to becoming an expert in Apache Web Server administration on Windows. The world of efficient, secure, and powerful web hosting awaits you!
+
+## Are you searching for Microsoft Courses?
+Please visit our full list of <a href="https://github.com/esamaric-srl/Microsoft-Courses">Microsot Courses</a> and start your training session.
+
