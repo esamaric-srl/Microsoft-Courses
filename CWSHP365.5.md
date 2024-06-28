@@ -2,13 +2,13 @@
 
 ## Introduction
 
-In today's digital workplace, collaboration and information management are key to organizational success. The CWSHP365.5 course, "Introduction to SharePoint for Office 365," offers a comprehensive dive into one of Microsoft's most powerful collaboration platforms. This course is designed to equip professionals with the knowledge and skills needed to effectively use **SharePoint** within the **Office 365** ecosystem.
+In today's digital workplace, collaboration and information management are key to organizational success. The <a href="https://www.esamatic.it/corsi/introduction-to-sharepoint-for-office-365-training-courseware">CWSHP365.5: Introduction to SharePoint for Office 365</a> course, offers a comprehensive dive into one of Microsoft's most powerful collaboration platforms. This course is designed to equip professionals with the knowledge and skills needed to effectively use **SharePoint** within the **Office 365** ecosystem.
 
 Whether you're new to SharePoint or looking to refresh your skills in the context of Office 365, this course provides a solid foundation for leveraging SharePoint's capabilities to enhance team collaboration, document management, and information sharing within your organization.
 
 ## Course Overview
 
-The CWSHP365.5 course is a concise yet thorough exploration of SharePoint in Office 365. Here's a quick snapshot of the course details:
+The <a href="https://www.esamatic.it/corsi/introduction-to-sharepoint-for-office-365-training-courseware">CWSHP365.5</a> course is a concise yet thorough exploration of SharePoint in Office 365. Here's a quick snapshot of the course details:
 
 - **Duration**: 7 hours (typically a one-day intensive)
 - **Format**: Instructor-led training
@@ -30,7 +30,7 @@ Before diving into the course content, it's crucial to understand why SharePoint
 
 ## Course Curriculum
 
-The CWSHP365.5 course is carefully designed to cover all essential aspects of SharePoint in Office 365. Here's an overview of what participants can expect to learn:
+The <a href="https://www.esamatic.it/corsi/introduction-to-sharepoint-for-office-365-training-courseware">CWSHP365.5</a> course is carefully designed to cover all essential aspects of SharePoint in Office 365. Here's an overview of what participants can expect to learn:
 
 ### 1. Introduction to SharePoint and Office 365
 
@@ -206,3 +206,7 @@ In today's fast-paced business environment, where effective collaboration and in
 Whether you're looking to boost your career prospects, improve your team's efficiency, or simply harness the full potential of your Office 365 subscription, the CWSHP365.5 course provides the perfect blend of theoretical knowledge and practical application. Don't miss this chance to transform your collaboration skills and become a SharePoint expert.
 
 Enroll in CWSHP365.5 today and embark on your journey to mastering SharePoint in Office 365. The future of efficient, collaborative work is at your fingertips!
+
+## Are you searching for Microsoft Courses?
+Please visit our full list of <a href="https://github.com/esamaric-srl/Microsoft-Courses">Microsot Courses</a> and start your training session.
+
